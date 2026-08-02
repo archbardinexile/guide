@@ -1,0 +1,3 @@
+Fio is a planet in the *Material plane*. With the exception of the [[The Relief|Relief]], it is believed the entirety of the planet has been enveloped by the [[The Miasma|Miasma]]. Estimated by scholars to be approximately 7,500 miles in diameter, Fio's rotation period is 24 hours. It orbits the sun, sometimes called *Sol*, every 336 days. Fio has an axial tilt of approximately 23°, causing a seasonal change in climate over the course of a year. The average temperature in winter is 42℉. This rises to an average temperature of 70℉ in summer. Fio has a single moon, [[Auga]], which orbits Fio approximately every 23½ days. Auga orbits Fio 14¼ times in one year and 57 times in a leap year.
+
+![[Calendar]]

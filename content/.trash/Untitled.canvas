@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"de7981b71fc733d9","x":-360,"y":-140,"width":250,"height":60,"type":"text","text":"Testing card"},
+		{"id":"b717aa0ceed81bc0","x":-8,"y":-140,"width":250,"height":60,"type":"text","text":"Card 2"}
+	],
+	"edges":[
+		{"id":"6149c2ff7d3111d5","fromNode":"de7981b71fc733d9","fromSide":"right","toNode":"b717aa0ceed81bc0","toSide":"left"}
+	]
+}

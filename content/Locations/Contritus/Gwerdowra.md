@@ -1,0 +1,1 @@
+When the archipelagos to the far east protested against the [[Combe Shipping and Courier Agency|CSCA]]'s oppressive trade influence, the islands of Gwerdowra banded together to form a coalition government with [[Anchora]] as its capital. Having thwarted the CSCA's expansion, their nascent military, the [[Free Trade Navy]], now police the eastern seas.
