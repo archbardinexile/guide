@@ -16,6 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Girassol
       header: Spectral SC
       body: Spectral
       code: IBM Plex Mono
@@ -109,9 +110,9 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -150,7 +151,7 @@ plugins:
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
@@ -267,7 +268,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
