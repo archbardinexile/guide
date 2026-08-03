@@ -1,22 +1,16 @@
 ---
 title: Introduction
 ---
-*For 1,000 years, the world of [[Fio]] has been plagued by an unnatural, perpetual storm of its own creation: the [[The Miasma|Miasma]], a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, the [[The Relief|Relief]], offers refuge. The city of [[Caelum's Landing]] sits at the heart of a 2,000-mile-wide clearing in the fog. It was here that [[Caelum Sol Orbis]] sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [[Earthmotes|earthmotes]], large chunks of land that float above the ground. This event has come to be known as the [[The Rising|Rising]].*
-
-![[The Rising]]
+*For 1,000 years, the world of [[Fio]] has been plagued by an unnatural, perpetual storm of its own creation: the [[The Miasma|Miasma]], a harrowing purple fog that only the bravest of adventurers dare to enter. But in the northern hemisphere, the [[The Relief/index|Relief]], offers refuge. The city of [[Caelum's Landing]] sits at the heart of a 2,000-mile-wide clearing in the fog. It was here that [[Caelum Sol Orbis]] sacrificed himself to shield his homeland from the oncoming storm 1,000 years ago. In doing so, the land began to fracture and rise, creating the [[Earthmotes|earthmotes]], large chunks of land that float above the ground. This event has come to be known as the [[The Rising|Rising]].*
 
 > [!NOTE]
 > Between you and me, reader, I have heard rumours of strange stone pillars in the Miasma that seem to bring the story of Caelum's ascension into question.
 > 
 > *—Barty*
 
-![[Caelum's Light]]
-
 ## 1,000 years later
 
 A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel to nearby earthmotes on powered cable cars. The most wealthy of denizens can even be found driving rudimentary automobiles, powered by [[Resonite|resonite]].
-
-![[Resonite]]
 
 ## Finding Adventure
 

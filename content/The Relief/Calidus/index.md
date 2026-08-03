@@ -1,0 +1,6 @@
+---
+title: Calidus
+aliases:
+  - Calidus
+---
+Calidus is the southernmost region of the [[The Relief/index|Relief]]. Calidus is blanketed by harsh sands, yet many varied cultures thrive here. The sandstone city of [[Arx]] offers refuge to travellers while powerful fiends are said to watch with envious eyes from the darkened landscape beyond the [[The Miasma|Miasma]].
