@@ -27,8 +27,12 @@ The Church has remained the most influential and widespread religion in [[Fio]] 
 
 ###### Notable Members
 
-[[Aura Sol Orbis]], [[Spiro Sol Orbis]], [[Sana Sol Orbis]], [[Clara Sol Orbis]], [[Patrocinor Mors]], [[Tristis Veritas]], [[Luna Vigil]], [[Jeremias Blackflight]]
+[[Patrocinor Mors]], [[Luna Vigil]], [[Jeremias Blackflight]]
 
 ## The Inquisition
 
 Founded in 972 PO by Exarch [[Ardeat Sol Orbis]] and Grand Inquisitor [[Tristis Veritas]], the Inquisition is tasked with abolishing cults and misinformation contrary to the [[Factions and Characters/Church of Caelum/index|Church of Caelum]]'s doctrine. They are in direct conflict with the [[Crosscut Circle]].
+
+###### Notable Members
+
+[[Tristis Veritas]],
