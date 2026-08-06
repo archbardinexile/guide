@@ -1,4 +1,4 @@
-The years before the [[The Rising|Rising]] are suffixed with AO, meaning *Ante Orientem* while the years after are suffixed with PO, meaning *Post Orientem*.
+The years before the [[index|Rising]] are suffixed with AO, meaning *Ante Orientem* while the years after are suffixed with PO, meaning *Post Orientem*.
 
 ## Ante Orientem
 
@@ -6,15 +6,11 @@ The years before the [[The Rising|Rising]] are suffixed with AO, meaning *Ante O
 
 #### Anfarwol arrives on Fio
 
-![[Anfarwol]]
-
 #### Caer Wraidd is built
 
 ### 64 AO
 
 #### Caelum Sol Orbis is born
-
-![[Caelum Sol Orbis]]
 
 ### 29 AO
 
@@ -26,29 +22,15 @@ The years before the [[The Rising|Rising]] are suffixed with AO, meaning *Ante O
 
 #### Prima Vita Sol Orbis is born
 
-![[Prima Vita Sol Orbis]]
-
 ### 0 AO
 
-#### The Rising
-
-![[The Rising]]
+#### The Rising Occurs
 
 ## Post Orientem
 
 ### 2 PO
 
 #### The Church of Caelum is founded
-
-The Church of Lathander transitions into the [[Church of Caelum]].
-
-### 23 PO
-
-#### The first successful flight of a hot air balloon
-
-### 25 PO
-
-#### The first successful flight of a glider
 
 ### 26 PO
 
@@ -66,17 +48,13 @@ Prima Vita marries Alberich Geboren and she becomes the first Exarch of the Chur
 
 #### The Church of Caelum expands
 
-The Church of Caelum begins sending missionaries to nearby [[Earthmotes|earthmotes]].
+The Church of Caelum begins sending missionaries to nearby [[earthmotes]].
 
 #### Prospero Sol Orbis is born
-
-![[Prospero Sol Orbis]]
 
 ### 29 PO
 
 #### Pluvia and Nebula Sol Orbis are born.
-
-![[Pluvia and Nebula Sol Orbis]]
 
 ### 46 PO
 
@@ -87,8 +65,6 @@ Alberich Geboren, husband to Prima Vita Sol Orbis, dies aged 75. Prima Vita woul
 ### 92 PO
 
 #### Nox arrives in Fio
-
-![[Nox (Earthmote)]]
 
 ### 111 PO
 
@@ -114,8 +90,6 @@ An 82-year period of feudalism would follow Prospero’s death, lasting until th
 
 #### The War of Accession begins
 
-![[War of Accession]]
-
 ### 203 PO
 
 #### The War of Accession ends
@@ -134,15 +108,12 @@ Cor is anointed Exarch and declares Rex Grand Paladin.
 
 #### Madanau arrives in Fio
 
-![[Madanau#History]]
-
 #### Lydia Iremia journeys to Caelum's Landing
-
-![[Lydia Iremia]]
 
 ### 213 PO
 
 #### Cor Sol Orbis marries Lydia Iremia
+
 #### Cor Sol Orbis dies
 
 Despite the care of his wife, after a decade of failing health, Cor Sol Orbis passes away.
@@ -177,7 +148,7 @@ The ensuing eight-year civil war concludes with a civilian march on the [[Caelum
 
 #### The Fundus Republic is founded
 
-Chlodovech declares himself Chancellor of the nascent [[Church of Caelum|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
+Chlodovech declares himself Chancellor of the nascent [[Factions and Characters/Church of Caelum/index|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
 
 ### 411 PO
 
@@ -205,8 +176,6 @@ Erde-south-west of Fundus, the earthmote known as [[Tenebrae's Refuge]] is const
 
 #### Ingenium arrives in Fio
 
-![[Ingenium]]
-
 ### 756 PO
 
 #### Ingenium is propelled toward Fundus
@@ -223,47 +192,31 @@ Jowan Aubrey successfully repels the Antiquan Armada at [[Sullivanwick|Penzance]
 
 #### The Commission is founded
 
-![[The Commission]]
-
 ### 964 PO
 
 #### Aura Sol Orbis is born
-
-![[Aura Sol Orbis]]
 
 ### 966 PO
 
 #### Spiro Sol Orbis is born
 
-![[Spiro Sol Orbis]]
-
 ### 972 PO
 
 #### The Inquisition is founded
-
-![[The Inquisition]]
 
 ### 975 PO
 
 #### Sana Sol Orbis is born
 
-![[Sana Sol Orbis]]
-
 ### 976 PO
 
 #### Mallia arrives in Fio
 
-![[Mallia]]
-
 #### The Medusae Wars begin
-
-![[The Medusae Wars]]
 
 ### 977 PO
 
 #### Clara Sol Orbis is born
-
-![[Clara Sol Orbis]]
 
 ### 980 PO
 
@@ -287,10 +240,6 @@ Following the death of her father, Aura Sol Orbis is anointed Exarch on the 11th
 
 #### Abyssus is discovered
 
-![[Abyssus]]
-
 ### 996 PO
 
 #### Creed's Hollow arrives in Fio
-
-![[Creed's Hollow]]

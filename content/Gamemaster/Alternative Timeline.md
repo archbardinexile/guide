@@ -15,7 +15,7 @@ Tenebrae travelled the region for six years, beseeching those in power to prepar
 
 #### Tenebrae creates a pact with the League of Archfiends
 
-Having challenged and rediscovered their resolve, Tenebrae travelled to the region of Discidium to seek out the *League of Archfiends*. Their number was said to include the powerful rakshasa sorcerer *Abhishek*, the alu-fiend seductress *Malaika*, the cambion warmonger *Arzhang*, and the durzagon artificer *Zdenek*. The fiends did not believe Tenebrae's tale until Malaika's agents returned with proof of Caelum's treachery. With the Archfiends' influence, Tenebrae's allies soon multiplied and collection began of the graphite required to construct the enormous diamond that would become the heart of [[Mundi Eversor]]; a great colossus that could match the powers of Caelum Sol Orbis, the aasimar who was to bring forth the [[The Miasma|Miasma]] in his bid for ascension.
+Having challenged and rediscovered their resolve, Tenebrae travelled to the region of Discidium to seek out the *League of Archfiends*. Their number was said to include the powerful rakshasa sorcerer *Abhishek*, the alu-fiend seductress *Malaika*, the cambion warmonger *Arzhang*, and the durzagon artificer *Zdenek*. The fiends did not believe Tenebrae's tale until Malaika's agents returned with proof of Caelum's treachery. With the Archfiends' influence, Tenebrae's allies soon multiplied and collection began of the graphite required to construct the enormous diamond that would become the heart of [[Mundi Eversor]]; a great colossus that could match the powers of Caelum Sol Orbis, the aasimar who was to bring forth the [[Miasma]] in his bid for ascension.
 
 ### 0 PO
 

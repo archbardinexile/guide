@@ -1,6 +1,0 @@
-- **Race:** Gnome, Male
-- **Class:** Ranger (Horizon Walker)
-- **Background:** Founder of the Commission
-- **Born:** 716 PO, Ingenium
-
-Glimback Toestubber is the founder of the [[The Commission|Commission]]. Originally from [[Ingenium]], Glimback was inspired in his youth when the city he called home was torn from one realm and deposited in another in a shower of sparks. He came to [[Caelum's Landing]] intent on forming the [[The Relief/index|Relief]]'s greatest explorer's guild. His vision became a reality when in 923 PO his organisation was commissioned by [[Ardeat Sol Orbis]], the Exarch, to begin prospecting new [[Earthmotes|earthmotes]] for colonisation. This eccentric, athletic and adventurous gnome always wears a smile to tint his pocked, rosy cheeks. Portraits of Glimback's many adventures adorn the wall of [[Crowswood Place]]. His silver widow's peak sticks up as though electrocuted and he is often seen wearing a backpack far too big for him, filled with tools for adventuring and tinkering. Glimback and an expedition of Crows went missing in 995 PO when they ventured into the [[The Miasma|Miasma]].

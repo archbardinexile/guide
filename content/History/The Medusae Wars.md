@@ -3,7 +3,7 @@ aliases:
   - Medusae Wars
   - Arrows Day
 ---
-The Medusae Wars were a series of conflicts between the [[Church of Caelum]] and the [[Mallian Dominion]] that took place between 976 PO and 983 PO. In 976 PO, when the [[Church of Caelum]] sent an expeditionary force to [[Mallia]], a newly arrived [[Earthmotes|earthmote]], to ascertain its eligibility for colonisation, the expedition was met by a tribe of "reptilian people with snakes for hair." These were Medusae, warriors of the Mallian queen, [[Vasilissa]], capable of turning to stone anyone who met their gaze. The expedition was quickly routed.
+The Medusae Wars were a series of conflicts between the [[Factions and Characters/Church of Caelum/index|Church of Caelum]] and the [[Mallian Dominion]] that took place between 976 PO and 983 PO. In 976 PO, when the [[Factions and Characters/Church of Caelum/index|Church of Caelum]] sent an expeditionary force to [[Mallia]], a newly arrived [[earthmotes|earthmote]], to ascertain its eligibility for colonisation, the expedition was met by a tribe of "reptilian people with snakes for hair." These were Medusae, warriors of the Mallian queen, [[Vasilissa]], capable of turning to stone anyone who met their gaze. The expedition was quickly routed.
 
 Despite this, the Church persisted with further expeditions to Mallia and succeeded in establishing trade routes with the nonaligned peoples of Mallia. The queen took the move as an invasion of her territory and declared war on the Church. Church missionaries were sent to Mallia in 980 PO to construct a hidden chapel outside the queen's territory which would serve as a place of refuge for disillusioned yuan-ti. Within four years, the Church had incited civil war on Mallia.
 

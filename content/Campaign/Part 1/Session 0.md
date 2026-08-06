@@ -4,7 +4,7 @@ date: 2024-10-20
 ---
 ## Prologue
 
-![[The Rising]]
+![[index]]
 
 ### Firien Madizos (Blake)
 

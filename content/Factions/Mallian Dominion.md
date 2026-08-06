@@ -1,3 +1,0 @@
-###### Notable Members
-
-[[Vasilissa]]

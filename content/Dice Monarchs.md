@@ -179,7 +179,6 @@ A player's hand can only be made of 1d4, 1d6, 1d8, 1d10 and 1d12. For example, a
 | Even Flop | 4,6,8   |
 | Odd Flop  | 3,5,7   |
 
-
 **Probability: 5.60% (1290 in 23,040)**
 
 | Hand   | Pattern |

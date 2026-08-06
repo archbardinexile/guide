@@ -1,14 +1,14 @@
 ---
 aliases:
-  - Miasma
-  - Miasma Psychosis
   - level of psychosis
+  - Miasma psychosis
+title: The Miasma
 ---
-The Miasma is a magical purple fog that—with the exception of the [[The Relief/index|Relief]]—envelops the entirety of [[Fio]]. It reaches almost 36,000 feet into the sky and has tides affected by Fio's moon, [[Auga]]. Malformed landscape plagued by sickened flora and fauna is revealed and concealed from west to east on a 23½-day cycle. Occasionally, migrating monsters and even rogue [[Earthmotes|earthmotes]] emerge from the Miasma, proving that survival is possible beyond the border if the effects of [[#Miasma Psychosis]] can be avoided. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom, though the history of these pillars remains a mystery.
+The Miasma is a magical purple fog that—with the exception of the [[The Relief/index|Relief]]—envelops the entirety of [[Fio]]. It reaches almost 36,000 feet into the sky and has tides affected by Fio's moon, [[Auga]]. Malformed landscape plagued by sickened flora and fauna is revealed and concealed from west to east on a 23½-day cycle. Occasionally, migrating monsters and even rogue [[earthmotes]] emerge from the Miasma, proving that survival is possible beyond the border if the effects of [[#Miasma psychosis]] can be avoided. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom, though the history of these pillars remains a mystery.
 
 ## Miasma Psychosis
 
-Venturing into the Miasma for prolonged periods of time without protection or being maimed by one of the aberrations within can lead to a special condition called Miasma Psychosis. Miasma Psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
+Venturing into the Miasma for prolonged periods of time without protection or being maimed by one of the aberrations within can lead to a special condition called Miasma psychosis. Miasma psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
 
 ###### Psychosis Table
 
