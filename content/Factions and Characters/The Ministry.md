@@ -2,7 +2,7 @@
 aliases:
   - Ministry
 ---
-The Ministry serves as government for [[Caelum's Landing]] and the [[Factions and Characters/Church of Caelum/index|Church of Caelum]]'s many territories. Elected representatives from each territory meet in the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] to establish the demands of the people and how they will be met by law.
+The Ministry serves as government for [[Caelum's Landing]] and the [[Church of Caelum|Church of Caelum]]'s many territories. Elected representatives from each territory meet in the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] to establish the demands of the people and how they will be met by law.
 
 Since the creation of the [[The Fundus Civil Wars|Fundus Constitution]] in 416 PO, the Chairman of the Ministry must present new laws to the Exarch for sanction. There is some speculation as to how much power the Church has over proceedings in the Ministerial Houses, but the current Chairman [[Emil Hartmann]] maintains that the Ministry works solely for the betterment of the people.
 
@@ -18,7 +18,7 @@ Since the creation of the [[The Fundus Civil Wars|Fundus Constitution]] in 416 P
 
 ## Inland Guard
 
-Led by Chief Constable [[Rosalind Armbruster]], the Inland Guard is the public police service headquartered at Caelum's Landing. Funded by the Ministry, the greater number of guards compared to the [[Factions and Characters/Church of Caelum/index|Church of Caelum]]'s Clerics allows for more efficient policing of [[Fundus]] and its neighbouring [[earthmotes]].
+Led by Chief Constable [[Rosalind Armbruster]], the Inland Guard is the public police service headquartered at Caelum's Landing. Funded by the Ministry, the greater number of guards compared to the [[Church of Caelum|Church of Caelum]]'s Clerics allows for more efficient policing of [[Fundus]] and its neighbouring [[Fio]].
 
 ###### Notable Members
 

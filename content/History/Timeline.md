@@ -1,4 +1,4 @@
-The years before the [[index|Rising]] are suffixed with AO, meaning *Ante Orientem* while the years after are suffixed with PO, meaning *Post Orientem*.
+The years before the [[index#The Rising|Rising]] are suffixed with AO, meaning *Ante Orientem* while the years after are suffixed with PO, meaning *Post Orientem*.
 
 ## Ante Orientem
 
@@ -48,7 +48,7 @@ Prima Vita marries Alberich Geboren and she becomes the first Exarch of the Chur
 
 #### The Church of Caelum expands
 
-The Church of Caelum begins sending missionaries to nearby [[earthmotes]].
+The Church of Caelum begins sending missionaries to nearby [[Fio]].
 
 #### Prospero Sol Orbis is born
 
@@ -148,7 +148,7 @@ The ensuing eight-year civil war concludes with a civilian march on the [[Caelum
 
 #### The Fundus Republic is founded
 
-Chlodovech declares himself Chancellor of the nascent [[Factions and Characters/Church of Caelum/index|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
+Chlodovech declares himself Chancellor of the nascent [[Church of Caelum|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
 
 ### 411 PO
 

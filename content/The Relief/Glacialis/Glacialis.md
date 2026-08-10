@@ -1,0 +1,1 @@
+Glacialis is the northernmost region of the [[The Relief|Relief]]. The region suffers arctic climates that have moulded its denizens into a force of nature. The stalwart people of [[Nox (Earthmote)|Nox]] look upon the Relief through rings of aurora. Further east, the dinosaur-riding clans of [[Primal Antiqua]] thrive on more verdant land.

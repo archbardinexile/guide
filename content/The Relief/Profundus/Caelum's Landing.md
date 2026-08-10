@@ -6,11 +6,11 @@ aliases:
 ---
 ###### Summary
 
-Caelum's Landing is the capital city of the most prevalent nation and religion in the [[The Relief/index|Relief]], the [[Factions and Characters/Church of Caelum/index|Church of Caelum]], which rose to power when [[Caelum Sol Orbis]] ascended to shield [[Fundus]] from the growing [[Miasma]] 1,000 years ago. Once known as Anfang, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in [[The Relief/Profundus/index|Profundus]].
+Caelum's Landing is the capital city of the most prevalent nation and religion in the [[The Relief|Relief]], the [[Church of Caelum|Church of Caelum]], which rose to power when [[Caelum Sol Orbis]] ascended to shield [[Fundus]] from the growing [[Fio]] 1,000 years ago. Once known as Anfang, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in [[Profundus|Profundus]].
 
 ### Districts
 
-The Cloud District is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [[The Ministry]]. Further east, [[resonite|resonance engines]] and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
+The Cloud District is where Caelum's Landing's industry takes precedence. It lies north-east of the Oratory. At its centre can be found the main office, barracks and stables of the [[The Ministry]]. Further east, [[index#Resonite|resonance engines]] and other contraptions are constructed at Caelum's Landing's acclaimed steam factories, where airships can be seen departing from vast airfields.
 
 The Sun District is the largest of Caelum's Landing's districts, where one can find residences and public services to sate any need. Inns always have beds and taverns always have beer. Street carts can be caught to travel anywhere on Fundus, and powered street lighting will keep your journey illuminated at night.
 

@@ -2,9 +2,7 @@
 title: 0. Meet the Party
 date: 2024-10-20
 ---
-## Prologue
-
-![[index]]
+![[index#Prologue]]
 
 ### Firien Madizos (Blake)
 
