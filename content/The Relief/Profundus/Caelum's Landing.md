@@ -6,7 +6,7 @@ aliases:
 ---
 ###### Summary
 
-Caelum's Landing is the capital city of the most prevalent nation and religion in the [[The Relief|Relief]], the [[Church of Caelum|Church of Caelum]], which rose to power when [[Caelum Sol Orbis]] ascended to shield [[Fundus]] from the growing [[Fio]] 1,000 years ago. Once known as Anfang, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in [[Profundus|Profundus]].
+Caelum's Landing is the capital city of the most prevalent nation and religion in the [[The Relief|Relief]], the [[Factions and Characters/Church of Caelum/Church of Caelum|Church of Caelum]], which rose to power when [[Caelum Sol Orbis]] ascended to shield [[Fundus]] from the growing [[Fio]] 1,000 years ago. Once known as Anfang, the city serves as the beating economic and cultural heart of the vast floating archipelagos that constitute the Relief. Caelum's Landing is home to nearly 1,000,000 people of countless races and cultures. Caelum's Landing boasts 1,000 square miles of developed areas, making it the largest city in [[The Relief/Profundus/Profundus|Profundus]].
 
 ### Districts
 

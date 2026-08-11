@@ -148,7 +148,7 @@ The ensuing eight-year civil war concludes with a civilian march on the [[Caelum
 
 #### The Fundus Republic is founded
 
-Chlodovech declares himself Chancellor of the nascent [[Church of Caelum|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
+Chlodovech declares himself Chancellor of the nascent [[Factions and Characters/Church of Caelum/Church of Caelum|Fundus Republic]] and construction begins on the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] where his new government would take shape. A period of unrest would follow as Chlodovech's Republic consistently failed to deliver the needs of its people.
 
 ### 411 PO
 

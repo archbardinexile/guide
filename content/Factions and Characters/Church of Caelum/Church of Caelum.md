@@ -3,7 +3,7 @@ aliases:
   - Fundus Republic
   - Inquisition
 ---
-The Church of Caelum is the most prevalent nation and religion in the [[The Relief|Relief]]. Ruled by the Exarch, [[Aura Sol Orbis]], the territories of this constitutional theocracy reach as far as [[Montanum|Montanum]]. The nation's capital, [[Caelum's Landing]], is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets.
+The Church of Caelum is the most prevalent nation and religion in the [[The Relief|Relief]]. Ruled by the Exarch, [[Aura Sol Orbis]], the territories of this constitutional theocracy reach as far as [[The Relief/Montanum/Montanum|Montanum]]. The nation's capital, [[Caelum's Landing]], is amongst the largest and most populous cities in the Relief, with much of the region's trade passing through its markets.
 
 The Church has remained the most influential and widespread religion in [[Fio]] for 1,000 years. It seeks to establish order by expanding its influence and assisting in the development of newfound [[Fio]]. Though tolerant of other religions, the Church's ubiquity often seems to overwhelm other nascent cultures and religions.
 
@@ -29,7 +29,7 @@ The Church has remained the most influential and widespread religion in [[Fio]] 
 
 ## The Inquisition
 
-Founded in 972 PO by Exarch [[Ardeat Sol Orbis]] and Grand Inquisitor [[Tristis Veritas]], the Inquisition is tasked with abolishing cults and misinformation contrary to the [[Church of Caelum|Church of Caelum]]'s doctrine. They are in direct conflict with the [[Crosscut Circle]].
+Founded in 972 PO by Exarch [[Ardeat Sol Orbis]] and Grand Inquisitor [[Tristis Veritas]], the Inquisition is tasked with abolishing cults and misinformation contrary to the [[Factions and Characters/Church of Caelum/Church of Caelum|Church of Caelum]]'s doctrine. They are in direct conflict with the [[Crosscut Circle]].
 
 ###### Notable Members
 

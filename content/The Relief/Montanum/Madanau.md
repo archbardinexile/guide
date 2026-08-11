@@ -4,7 +4,7 @@ Madanau has been revealed by scholars to be one of the first [[Fio]] to arrive i
 
 ###### History
 
-In 204 PO, the desert oasis Madanau appeared erde-west of [[Fundus]] in a whirlwind of sand. Initially enveloped by the [[Fio]], the enormous emerald dragon, [[Vulcan]], emerged from his dormancy beneath [[Montanum|Montanum]] to push Madanau beyond the border with his hurricane-like breath. Denizens who saw the dragon before he returned to his slumber have passed on the tale to future generations.
+In 204 PO, the desert oasis Madanau appeared erde-west of [[Fundus]] in a whirlwind of sand. Initially enveloped by the [[Fio]], the enormous emerald dragon, [[Vulcan]], emerged from his dormancy beneath [[The Relief/Montanum/Montanum|Montanum]] to push Madanau beyond the border with his hurricane-like breath. Denizens who saw the dragon before he returned to his slumber have passed on the tale to future generations.
 
 ## Creed's Hollow
 

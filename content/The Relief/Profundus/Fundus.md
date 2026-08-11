@@ -3,7 +3,7 @@ aliases:
   - Asgwrn Mountains
   - Caer Wraidd
 ---
-At the centre of the [[The Relief|Relief]], Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. Nearly 170 miles wide, the [[Fio|earthmote]]'s underbelly glimmers with enchanted [[index#Resonite|resonite]] ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. Fundus hosts the capital city of the [[Church of Caelum|Church of Caelum]], [[Caelum's Landing]].
+At the centre of the [[The Relief|Relief]], Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. Nearly 170 miles wide, the [[Fio|earthmote]]'s underbelly glimmers with enchanted [[index#Resonite|resonite]] ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. Fundus hosts the capital city of the [[Factions and Characters/Church of Caelum/Church of Caelum|Church of Caelum]], [[Caelum's Landing]].
 
 ## Fundus Park
 
