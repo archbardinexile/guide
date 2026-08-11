@@ -2,7 +2,7 @@
 aliases:
   - Nox
 ---
-In 92 PO, the [[Fio|earthmote]] Nox emerged from a ring of aurora in the sky skew-north of [[Caelum's Landing]]. The silver dragon [[Nox (Dragon)|Nox]], who had bestowed his namesake unto the earthmote, flew down to [[Fundus]] in search of help. When confronted only with the nascent [[Factions and Characters/Church of Caelum/Church of Caelum|Church of Caelum]]'s zealotry, Nox returned home intent on securing a self-reliant future for his people in wintry isolation.
+In 92 PO, the [[Fio|earthmote]] Nox emerged from a ring of aurora in the sky skew-north of [[Caelum's Landing]]. The silver dragon [[Nox (Dragon)|Nox]], who had bestowed his namesake unto the earthmote, flew down to [[Fundus]] in search of help. When confronted only with the nascent [[Church of Caelum]]'s zealotry, Nox returned home intent on securing a self-reliant future for his people in wintry isolation.
 
 Nox is a fiercely independent and somewhat impoverished city state founded by the reclusive silver dragon, Nox. Nox does not rule the earthmote. Rather, he presides over the commune as adviser and mentor. This snow-capped earthmote sits high enough in the sky that its denizens may live under a perpetual night sky, illuminated only by a thin blue halo of daylight and ribbons of chromatic aurora.
 
