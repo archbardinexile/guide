@@ -1,3 +1,18 @@
-The gargantuan jungle [[Fio|earthmote]], known to its inhabitants as Mallia, erupted from the seas erde-south-east of [[Fundus]] in 976 PO. Mallia is the largest earthmote in the [[The Relief|Relief]]. This impenetrable jungle peninsula floats just above sea level, with thick vines cascading over its shores like medusan hair. The landmass continues into the [[Fio]], but none on the earthmote dare venture past the border.
+---
+aliases:
+  - Medusae Wars
+  - Arrows Day
+---
+###### Summary
 
-It is the home of the Mallian culture, a unification of reptilian races ruled by the greater medusan queen, [[Vasilissa]]. The queen is known to bless only the most powerful and loyal of her subjects with the very curse she bears in order to create the infamous medusan warriors that command her armies. Mallia currently stands fractured between those loyal to the queen and those who have found sanctuary in the [[Church of Caelum]]. The rainforest serves as the border between these two factions.
+Partially concealed by the Miasma's south eastern border, Mallia is the largest earthmote in the [[The Relief|Relief]]. This impenetrable jungle peninsula floats just above sea level, with thick vines cascading over its shores like medusan hair. It is the home of the Mallian culture, a unification of reptilian races ruled by the greater medusan queen, [[Vasilissa]].
+
+#### The Medusae Wars (976-983 PO)
+
+The Medusae Wars were a series of conflicts between the [[Church of Caelum]] and the [[Mallian Dominion]] that took place between 976 PO and 983 PO. In 976 PO, when Mallia erupted from the seas on the south-eastern border, the Church sent an expeditionary force to the newly arrived [[Fio#Earthmotes|earthmote]], to ascertain its eligibility for colonisation. The expedition was met by a tribe of "Reptilian people with snakes for hair." These were Medusae, warriors of the Mallian queen, [[Vasilissa]], capable of turning to stone anyone who met their gaze. The expedition was quickly routed.
+
+Despite this, the Church persisted with further expeditions to Mallia and succeeded in establishing trade routes with the nonaligned peoples of Mallia. The queen took the move as an invasion of her territory and declared war on the Church. Church missionaries were sent to Mallia in 980 PO to construct a hidden chapel outside the queen's territory which would serve as a place of refuge for disillusioned yuan-ti. Within four years, the Church had incited civil war on Mallia.
+
+The Medusae Wars lasted a further three years until the divine warriors of Caelum discovered a source of basilisk venom, an alchemical ingredient used to return those petrified by the Medusae to their normal state. On the 17th of Perventum 983 PO, a decisive battle was fought in the sky between several squadrons of Church gliders and squid-like Mallian aircraft south-east of Caelum's Landing. The Mallian forces were routed by the Church's superior firepower. Vasilissa was forced to sign an armistice in 983 PO, conceding the territories gained by the Church.
+
+Many wrecks of Church gliders and Mallian flagellates can be found on the seabed beneath where the battle took place. Every 17th of Perventum, Caelum's Landing celebrates Arrows Day. Kites are flown throughout the city to commemorate those who lost their lives in the wars, and in appreciation of the peace they helped to create.

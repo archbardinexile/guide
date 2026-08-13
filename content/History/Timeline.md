@@ -94,7 +94,7 @@ An 82-year period of feudalism would follow Prospero’s death, lasting until th
 
 #### The War of Accession ends
 
-Cor defeats Rex at the Battle of [[Dawnroot Forest|Fountainhead Falls]] and chooses to spare his life.
+Cor defeats Rex at the Battle of [[Fundus|Fountainhead Falls]] and chooses to spare his life.
 
 #### Cor Sol Orbis becomes Exarch
 
@@ -201,6 +201,8 @@ Jowan Aubrey successfully repels the Antiquan Armada at [[Sullivanwick|Penzance]
 #### Spiro Sol Orbis is born
 
 ### 972 PO
+
+#### Tamlo arrives in Fio
 
 #### The Inquisition is founded
 

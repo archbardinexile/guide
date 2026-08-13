@@ -1,1 +1,3 @@
-This independent city state sits between [[Gwerdowra]] and the [[The Manyshells|Manyshells]] on an island broken by branching rivers of sparkling aquamarine. It is the chosen home of the [[The Saltmoot|Saltmoot]], a loose alliance of pirates, privateers and merchant crews. This shanty city's government frequently changes, favouring those with the largest fleets and the greatest wealth.
+###### Summary
+
+This independent city state sits between [[Gwerdowra]] and the [[Manyshells]] on an island broken by branching rivers of sparkling aquamarine. It is the chosen home of the [[The Saltmoot|Saltmoot]], a loose alliance of pirates, privateers and merchant crews. This shanty city's government frequently changes, favouring those with the largest fleets and the greatest wealth.

@@ -1,3 +1,6 @@
+---
+title: Githzechi
+---
 In a cruel twist of cosmic fate, these gith were snatched from the timeless city of *Tu'narath* and marooned in the desert of [[Os Terrae]]. Though they quickly adapted to their new environs, these gith never forgot their legacy; naming themselves 'those who wait for Gith'. The Githzechi Clans are said to be the descendants of githyanki who fell through a portal to the *Astral Plane* several centuries ago. The clans constantly feud over the barren territories of Os Terrae and have developed their psionic abilities to survive its harsh sands. While some uphold their faith in *Vlaakith*, others seek their fortune in Os Terrae's grand sinkhole that provides precious materials from the *Elemental Plane of Earth*.
 
 ## Traits

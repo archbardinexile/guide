@@ -1,5 +1,7 @@
 ---
 title: Miasma Psychosis
+aliases:
+  - level of psychosis
 ---
 Venturing into the Miasma for prolonged periods of time without protection or being maimed by one of the aberrations within can lead to a special condition called Miasma psychosis. Miasma psychosis is measured in six levels. An effect can give a creature one or more levels of psychosis, as specified in the effect's description.
 

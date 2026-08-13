@@ -1,0 +1,3 @@
+###### Summary
+
+Vasilissa is the greater medusan queen of the [[Mallian Dominion]]. She is known to bless the most powerful and loyal of her subjects with the curse she bears in order to create the infamous medusan warriors that command her armies. [[Mallia]] currently stands fractured between those loyal to the queen and those who have found sanctuary in the [[Church of Caelum]]. A dense rainforest serves as the border between these two factions.

@@ -1,3 +1,6 @@
+---
+title: Tiefling (Rakshasa)
+---
 Descended from finery and excess, Tieflings with feline Rakshasa blood find themselves most at home in high society, where their natural guile and penchant for trickery aids in the elevation of their status.
 
 ## Traits

@@ -2,4 +2,4 @@ Tenebrae’s Refuge is said to be the place to which [[Tenebrae]] fled when thei
 
 ## Little Nox
 
-Little Nox separated from [[Tenebrae's Refuge]] in 617 PO. This was caused by the [[Dawnroot Forest|Fountainhead Falls]] above eroding a chasm between the two earthmotes. Erde-south-east of Tenebrae's Refuge, Little Nox is only a fifth of its size. Half of Little Nox remains directly beneath the rainbow of Fountainhead Falls. The prismatic mist and resplendent pond at the [[Fio|earthmote]]'s centre make it the perfect habitat for aquatic races.
+Little Nox separated from [[Tenebrae's Refuge]] in 617 PO. This was caused by the [[Fundus|Fountainhead Falls]] above eroding a chasm between the two earthmotes. Erde-south-east of Tenebrae's Refuge, Little Nox is only a fifth of its size. Half of Little Nox remains directly beneath the rainbow of Fountainhead Falls. The prismatic mist and resplendent pond at the [[Fio|earthmote]]'s centre make it the perfect habitat for aquatic races.
