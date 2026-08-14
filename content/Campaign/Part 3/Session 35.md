@@ -22,7 +22,7 @@ A thousand questions enter Spiro's mind. Though Firien was hesitant to trust Ten
 >
 > *—Firien to Bantonio*
 
-Before retiring, Gomruss casts sending to Tabitha and his parents. Their replies are distorted and distant. Could the Miasma be disrupting his spell? A hypothesis stews in his brilliant mind as he snores. Unable to sleep, Arti visits Zephan on deck. The air genasi is performing maintenance on the lantern shield. Arti learns that each lantern has a blessed diamond at its core. According to Zephan, the diamond in Arti's heart is worth at least 1,000 gold. He and Eureka experimented first with resonite, but the required blessing wouldn't take.
+Before retiring, Gomruss casts sending to Tabitha and his parents. Their replies are distorted and distant. Could the Miasma be disrupting his spell? A hypothesis stews in his brilliant mind as he snores. Unable to sleep, Arti visits Zephan on deck. The air genasi is performing maintenance on the lantern shield. Arti learns that each lantern has a blessed diamond at its core. According to Zephan, the diamond in Arti's heart is worth at least one thousand gold. He and Eureka experimented first with resonite, but the required blessing wouldn't take.
 
 ## 996, Inceptum 2nd
 

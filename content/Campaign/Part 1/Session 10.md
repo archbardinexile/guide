@@ -8,7 +8,7 @@ Outside, Bantonio solicits Tuperk for use of a glider so that he might train for
 
 ### Bounty Hunters Lodge
 
-The rain eases as the party take an hour to walk to the Sun District where they find rival adventuring teams training on the playing field outside the Bounty Hunters Lodge. Gomruss spies the wizard Tabitha and her team, the Feywild Ones; Elaina Thistlewind, the elf rogue who slapped Gomruss the night before; Cylaros, a szarkai ranger; and Cade Beckonhand, dwarf fighter and son of Kurt, the former lighthouse keeper. Spying Cade, Blythe prepares a new disguise. Bantonio also spots his opponent for the gliding challenge, Buddleja, a fairy Cleric with the wings of a monarch butterfly. The party meet Vigor, the statuesque tiefling hosting the tournament, and each pay the entry fee of 20 gold. Vigor explains the rules of the tournament, then asks for the party's team name.
+The rain eases as the party take an hour to walk to the Sun District where they find rival adventuring teams training on the playing field outside the Bounty Hunters Lodge. Gomruss spies the wizard Tabitha and her team, the Feywild Ones; Elaina Thistlewind, the elf rogue who slapped Gomruss the night before; Cylaros, a szarkai ranger; and Cade Beckonhand, dwarf fighter and son of Kurt, the former lighthouse keeper. Spying Cade, Blythe prepares a new disguise. Bantonio also spots his opponent for the gliding challenge, Buddleja, a fairy Cleric with the wings of a monarch butterfly. The party meet Vigor, the statuesque tiefling hosting the tournament, and each pay the entry fee of twenty gold. Vigor explains the rules of the tournament, then asks for the party's team name.
 
 > "Guy Brush and the... Brushlings!"
 >

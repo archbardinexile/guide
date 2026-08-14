@@ -4,7 +4,7 @@ date: 2025-03-09
 ---
 ### The Hearty Tankard
 
-The Six of Steel arrive at The Hearty Tankard. Gomruss slips through the crowd to tap the shoulder of the drunken half-elf snoozing at the bar. Much to the drunkard's surprise, the dragonborn confidently hands over the 20 gold he owes. The drunkard tips his hat in thanks then returns to his slumber. Gomruss spies the debt collector from Ruby sat beside his two cronies at the River table in the corner. However, before Gomruss can approach, he is waylaid by Bilziver Boldcrag, the angry farmer whose wheat he crushed in the battle with the pteranodons. Fortunately, Firien is able to deliver some expert financial advice to placate him.
+The Six of Steel arrive at The Hearty Tankard. Gomruss slips through the crowd to tap the shoulder of the drunken half-elf snoozing at the bar. Much to the drunkard's surprise, the dragonborn confidently hands over the twenty gold he owes. The drunkard tips his hat in thanks then returns to his slumber. Gomruss spies the debt collector from Ruby sat beside his two cronies at the River table in the corner. However, before Gomruss can approach, he is waylaid by Bilziver Boldcrag, the angry farmer whose wheat he crushed in the battle with the pteranodons. Fortunately, Firien is able to deliver some expert financial advice to placate him.
 
 > "Do you have insurance?"
 >

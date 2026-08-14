@@ -2,7 +2,7 @@
 title: 17. The Ambitious Assassin
 date: 2025-02-16
 ---
-Blinking away the daubs of colour from their vision, the party spot that Silas has left a chest at the cave entrance. It contains 12 potions of healing. It seems they caught the ambitious assassin in the middle of moving Kurt's loot to a new location. Cade leads the party into the cave.
+Blinking away the daubs of colour from their vision, the party spot that Silas has left a chest at the cave entrance. It contains twelve potions of healing. It seems they caught the ambitious assassin in the middle of moving Kurt's loot to a new location. Cade leads the party into the cave.
 
 Bantonio ignites his torch to illuminate a squelchy underfoot. Glowing mushrooms feed from the slime on several large stalagmites. Arti raises their lantern flail, revealing thousands of needle-like stalactites in the cave ceiling. Chalky water drips from the needles into the stagnant pond on their left. Still invisible, Silas' voice echoes throughout the cave.
 

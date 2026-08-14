@@ -5,6 +5,7 @@ aliases:
   - Miasma
   - earthmotes
   - earthmote
+  - Caelum's Light
 ---
 ###### Summary
 

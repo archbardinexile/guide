@@ -4,7 +4,7 @@ date: 2026-01-11
 ---
 ## 996, Flavum 7th
 
-The next morning, Gomruss and Firien discuss their meditation with the Six of Steel. Firien explains that the Church choose to believe Caelum reached Lathander's realm of Morninglory in Elysium, despite his 1,000-year-long hiatus. Bantonio confesses that the Church in Diamante teaches acolytes to accept Caelum's miracle as an unquestionable truth. Contrarily, Gomruss theorises that Caelum never reached Elysium. A trip to the library was in order! Meanwhile, Blythe disguises Guy as his father, ready to pay a visit to Bertrand Magnier.
+The next morning, Gomruss and Firien discuss their meditation with the Six of Steel. Firien explains that the Church choose to believe Caelum reached Lathander's realm of Morninglory in Elysium, despite his one thousand-year-long hiatus. Bantonio confesses that the Church in Diamante teaches acolytes to accept Caelum's miracle as an unquestionable truth. Contrarily, Gomruss theorises that Caelum never reached Elysium. A trip to the library was in order! Meanwhile, Blythe disguises Guy as his father, ready to pay a visit to Bertrand Magnier.
 
 ### Locke and Quay Lodge
 

@@ -2,7 +2,7 @@
 aliases:
   - CLU
 ---
-Caelum’s Landing University, or CLU, is the largest educational institution in the [[The Relief|Relief]]. Its main campus on [[Fundus]] is large enough to warrant a district of its own. Here you can take crash courses to learn new spells, gain new skills and new tool proficiencies. Or, if you wish to carve out a different path for yourself, you may enrol at the university and learn all the essential skills you need to make a fresh start. The university's famous library and observatory are always open to the public. Adventurers looking to travel to nearby [[Fio]] may visit the Glider Proficiency Centre, where they must pass an assessment before they can get a glider of their own.
+Caelum’s Landing University, or CLU, is the largest educational institution in the [[The Relief|Relief]]. Its main campus on [[Fundus]] is large enough to warrant a district of its own. Here you can take crash courses to learn new spells, gain new skills and new tool proficiencies. Or, if you wish to carve out a different path for yourself, you may enrol at the university and learn all the essential skills you need to make a fresh start. The university's famous library and observatory are always open to the public. Adventurers looking to travel to nearby [[Fio#Earthmotes|earthmotes]] may visit the Glider Proficiency Centre, where they must pass an assessment before they can get a glider of their own.
 
 ## Glider Proficiency Centre
 

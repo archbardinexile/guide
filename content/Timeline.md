@@ -48,7 +48,7 @@ Prima Vita marries Alberich Geboren and she becomes the first Exarch of the Chur
 
 #### The Church of Caelum expands
 
-The Church of Caelum begins sending missionaries to nearby [[Fio]].
+The Church of Caelum begins sending missionaries to nearby earthmotes.
 
 #### Prospero Sol Orbis is born
 
@@ -64,7 +64,7 @@ Alberich Geboren, husband to Prima Vita Sol Orbis, dies aged 75. Prima Vita woul
 
 ### 92 PO
 
-#### Nox arrives in Fio
+#### Nox arrives on Fio
 
 ### 111 PO
 
@@ -106,7 +106,7 @@ Cor is anointed Exarch and declares Rex Grand Paladin.
 
 ### 204 PO
 
-#### Madanau arrives in Fio
+#### Madanau arrives on Fio
 
 #### Lydia Iremia journeys to Caelum's Landing
 
@@ -174,7 +174,7 @@ Erde-south-west of Fundus, the earthmote known as [[Tenebrae's Refuge]] is const
 
 ### 748 PO
 
-#### Ingenium arrives in Fio
+#### Ingenium arrives on Fio
 
 ### 756 PO
 
@@ -202,7 +202,7 @@ Jowan Aubrey successfully repels the Antiquan Armada at [[Sullivanwick|Penzance]
 
 ### 972 PO
 
-#### Tamlo arrives in Fio
+#### Tamlo arrives on Fio
 
 #### The Inquisition is founded
 
@@ -212,7 +212,7 @@ Jowan Aubrey successfully repels the Antiquan Armada at [[Sullivanwick|Penzance]
 
 ### 976 PO
 
-#### Mallia arrives in Fio
+#### Mallia arrives on Fio
 
 #### The Medusae Wars begin
 
@@ -244,4 +244,4 @@ Following the death of her father, Aura Sol Orbis is anointed Exarch on the 11th
 
 ### 996 PO
 
-#### Creed's Hollow arrives in Fio
+#### Creed's Hollow arrives on Fio

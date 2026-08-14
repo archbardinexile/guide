@@ -5,11 +5,11 @@ aliases:
   - Order of the Lantern
 permalink: the-commission
 ---
-The Commission for the Research of Offshore Worlds, affectionately called Crows or simply the Commission, was founded by [[Glimback Toestubber]] in 899 PO. Originally known as the Explorer's Guild, Crows secured government funding in 923 PO when approached by [[Ardeat Sol Orbis]] to begin prospecting new [[Fio]] for colonisation. Though in the employ of the government, Crows continues to work independently, conducting research into the [[Fio]] and the curious beasts that reside within. They operate out of [[Fundus#Crowswood Place|Crowswood Place]] on [[Fundus]].
+The Commission for the Research of Offshore Worlds, affectionately called Crows or simply the Commission, was founded by [[Glimback Toestubber]] in 899 PO. Originally known as the Explorer's Guild, Crows secured government funding in 923 PO when approached by [[Ardeat Sol Orbis]] to begin prospecting new [[Fio#Earthmotes|earthmotes]] for colonisation. Though in the employ of the government, Crows continues to work independently, conducting research into the [[Fio#The Miasma|Miasma]] and the curious beasts that reside within. They operate out of [[Fundus#Crowswood Place|Crowswood Place]] on [[Fundus]].
 
 ## Order of the Lantern
 
-The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the [[Fio]].
+The Order of the Lantern is a clandestine organisation of *Blood Hunters* who undergo a ritual that allows them to safely navigate and research the Miasma.
 
 ###### Notable Members
 

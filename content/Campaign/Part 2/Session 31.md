@@ -10,7 +10,7 @@ Firien spots an intact statue and summons Gomruss to perform an adjust density s
 
 ### Crowswood Place
 
-While Guy supervises the furnishing of the earthmote, Firien and Gomruss meet with Doom to begin extracting the basilisk venom. Gomruss soothes his new serpentine companion while Doom and Firien hold the flasks to its fangs. Gomruss spends three charges of his basilisk die, earning him 20 flasks of basilisk venom. Seeing how Gomruss bonded with the basilisk, Doom decides not to release it, instead returning Gomruss' die. Firien considers how they might track the venom's location. Gomruss advises that the distance would be too great for magic to work. Arti suggests the Commission send a scout instead.
+While Guy supervises the furnishing of the earthmote, Firien and Gomruss meet with Doom to begin extracting the basilisk venom. Gomruss soothes his new serpentine companion while Doom and Firien hold the flasks to its fangs. Gomruss spends three charges of his basilisk die, earning him twenty flasks of basilisk venom. Seeing how Gomruss bonded with the basilisk, Doom decides not to release it, instead returning Gomruss' die. Firien considers how they might track the venom's location. Gomruss advises that the distance would be too great for magic to work. Arti suggests the Commission send a scout instead.
 
 > "Track the venom the old fashioned way, huh? I know just the person."
 >

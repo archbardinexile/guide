@@ -8,7 +8,11 @@ aliases:
   - Fountainhead Falls
   - Pen Ffynnon
 ---
-At the centre of the [[The Relief|Relief]], Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. Nearly 170 miles wide, the [[Fio|earthmote]]'s underbelly glimmers with enchanted [[index#Resonite|resonite]] ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. Fundus hosts the capital city of the [[Church of Caelum]], [[Caelum's Landing]].
+###### Summary
+
+At the centre of the [[The Relief|Relief]], Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. Boasting ten thousand square miles of land, the [[Fio#Earthmotes|earthmote]]'s underbelly glimmers with enchanted [[index#Resonite|resonite]] ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. Fundus hosts the capital city of the [[Church of Caelum]], [[Caelum's Landing]].
+
+Fundus' nearest neighbours, such as [[Tenebrae's Refuge]] and [[Ingenium]] are connected by a network of powered cable cars and zip lines. The Church's territories are also connected by teleportation circles, generously established by the mages of [[Caelum's Landing University]]. All of the Church's territories are governed or supervised by a *Prefect*, appointed by the Church.
 
 ## Fundus Park
 
@@ -22,14 +26,16 @@ The Sundered Peaks are all that remain of the Asgwrn Mountains. During the [[ind
 
 ## Crowswood Place
 
-Crowswood Place is the stately manor home of the [[The Commission|Commission]] for the Research of Offshore Worlds, or Crows for short. Situated west of the [[Caelum's Landing#The Oratory|Oratory]], members of this organisation are are tasked with surveying the earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [[The Commission|Order of the Lantern]]. These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the [[Fio]].
+Crowswood Place is the stately manor home of the [[The Commission|Commission]] for the Research of Offshore Worlds, or Crows for short. Situated west of the [[Caelum's Landing#The Oratory|Oratory]], members of this organisation are are tasked with surveying the earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [[The Commission|Order of the Lantern]]. These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the [[Fio#The Miasma|Miasma]].
 
 ## Dawnroot Forest
 
-A statue of Caelum presides over the entrance to the Dawnroot Forest.
+A statue of Caelum presides over the entrance to the Dawnroot Forest. The River Fountainhead leads north-east to its source; a portal to the elemental plane of water. Along the river can be found numerous fishing villages and watermills. On Fundus' south-western shore, a great waterfall is fuelled by the River Fountainhead that leads north-east to the Dawnroot Forest.
 
-The River Fountainhead leads north-east to its source; a portal to the elemental plane of water. Along the river can be found numerous fishing villages and watermills.
-
-On [[Fundus]]' south-western shore, a great waterfall is fuelled by the River Fountainhead that leads north-east to the Dawnroot Forest.
+### Pen Ffynnon
 
 In the heart of the Dawnroot Forest lies Pen Ffynnon, the ancestral home of the [[Dawnroot Druids]]. These druids are sworn to protect and nurture the portal in the centre of the lake.
+
+### River Fountainhead
+
+### Fountainhead Falls

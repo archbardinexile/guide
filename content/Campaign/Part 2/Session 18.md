@@ -60,7 +60,7 @@ Keijo collapses as Arti returns to consciousness. Firien rushes to Keijo's side 
 >
 > *—Firien recruits the monks*
 
-Quelling their rage, Arti joins their friends for home-cooked ramen; a Blue-Belly special. Arti recounts the events of their dream. Gomruss is particularly puzzled that the dream visitor should use the ancient name for Caelum's Landing—the city hasn't been called Anfang in almost 1,000 years. Bantonio quizzes Blue-Belly on the monks' practices in matters of love and loss. According to him, love is cherished by the monks, but equally loss must be accepted. Bantonio feels the urge to embrace the kindly lizardfolk for his advice. Exiting the Spirit Temple, Bantonio also offers his potion of cure psychosis to Baihu so that the monks may study it. The party coo over Firien's romantic parting from Keijo.
+Quelling their rage, Arti joins their friends for home-cooked ramen; a Blue-Belly special. Arti recounts the events of their dream. Gomruss is particularly puzzled that the dream visitor should use the ancient name for Caelum's Landing—the city hasn't been called Anfang in almost one thousand years. Bantonio quizzes Blue-Belly on the monks' practices in matters of love and loss. According to him, love is cherished by the monks, but equally loss must be accepted. Bantonio feels the urge to embrace the kindly lizardfolk for his advice. Exiting the Spirit Temple, Bantonio also offers his potion of cure psychosis to Baihu so that the monks may study it. The party coo over Firien's romantic parting from Keijo.
 
 > "You may find yourself asking 'what's the point of being happy now if I’m just going to be sad later?' The answer is—of course—because you're going to be sad later."
 >

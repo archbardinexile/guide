@@ -49,7 +49,7 @@ At midday, Firien guides the party to their favourite tavern, The Dragon's Chali
 >
 > *—Arti speaks for the first time to Firien*
 
-After a hearty meal and some flirtation, a drunken half-elf leaves the River table and spots Gomruss. Apparently the dragonborn owes him 20 gold! Once again it falls to the party to intimidate the debt collector and his thug friends. Gomruss suggests the half-elf meet him in The Hearty Tankard in five days.
+After a hearty meal and some flirtation, a drunken half-elf leaves the River table and spots Gomruss. Apparently the dragonborn owes him twenty gold! Once again it falls to the party to intimidate the debt collector and his thug friends. Gomruss suggests the half-elf meet him in The Hearty Tankard in five days.
 
 > "This pompous lizard owes me twenty gold!"
 >
