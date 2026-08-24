@@ -16,9 +16,9 @@ Tuperk defers to Guy's expertise and assembles his engineers to install the sail
 >
 > *—Doom to Guy*
 
-### Sun District
+### Saviour's Ward
 
-Arti, Bantonio, Firien and Blythe pair off to shop for supplies in the Sun District. Estimating a journey no longer than a month, they must prepare food and accommodation for a crew of 25 in addition to Glimback and the six expedition survivors. With some expert haggling, the four secure substantial discounts on some wholesale items. The total comes to 4,536 gold. Arti examines the list. Hadley could brew the potions of cure psychosis they needed, and Tuperk had some surplus pteranodon leather for repairs. All that remained was to wait for Roshia to deliver the Arxian glass lanterns.
+Arti, Bantonio, Firien and Blythe pair off to shop for supplies in Saviour's Ward. Estimating a journey no longer than a month, they must prepare food and accommodation for a crew of 25 in addition to Glimback and the six expedition survivors. With some expert haggling, the four secure substantial discounts on some wholesale items. The total comes to 4,536 gold. Arti examines the list. Hadley could brew the potions of cure psychosis they needed, and Tuperk had some surplus pteranodon leather for repairs. All that remained was to wait for Roshia to deliver the Arxian glass lanterns.
 
 ![[Expedition Invoice]]
 

@@ -4,11 +4,11 @@ date: 2024-11-03
 ---
 Exiting the station, the adventurers take a moment to explore Fundus Park, a small town on the south-western shore of Fundus. The town has several amenities one might need after a lengthy journey; a tavern, several inns, even a tourist information centre. A park of rolling green hills can be seen beyond an ornate bronze arch bearing the town's name. Outside the station, a line of guards tries to disperse a gaggle of miners. Firien picks up a flyer dropped by one of the miners. The flyer calls for better mining safety laws and shows an image of a rotten wooden footbridge where a miner has supposedly fallen to their death.
 
-Firien, Arti, Gomruss and Guy decide to taxi-pool for 4 silver each. The ruckus of the town is replaced with the chirps of grasshoppers as the taxi departs. The road north to Caelum's Landing divides patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers. The taxi appears to struggle with Arti's impressive weight. Fortunately, the adventurers arrive in the Wind District without incident.
+Firien, Arti, Gomruss and Guy decide to taxi-pool for 4 silver each. The ruckus of the town is replaced with the chirps of grasshoppers as the taxi departs. The road north to Caelum's Landing divides patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers. The taxi appears to struggle with Arti's impressive weight. Fortunately, the adventurers arrive in Merchant's Ward without incident.
 
-### Wind District
+### Merchant's Ward
 
-The Wind District of Caelum's Landing is where shoppers, tourists and adventurers can find the heart of the Relief's commerce: stalls of travelling merchants, workshops of craftsmen, and skilled alchemists who can both heal and invigorate the most daring of adventurers. Today is the Guilds Exhibition when guilds and entrepreneurs from all over the Relief gather to recruit members and promote their business. Among the attending guilds are representatives from:
+Merchant's Ward is where shoppers, tourists and adventurers can find the stalls of travelling merchants, the workshops of artisans, and skilled alchemists who can both heal and invigorate the most daring of adventurers. Today is the Guilds Exhibition, a quarterly event when guilds and entrepreneurs from all over the Relief gather to recruit members and promote their business. Among the attending guilds are representatives from:
 
 - **The Church of Caelum.** Offering spiritual advice, recruiting acolytes and accepting charity.
 - **The Commission.** Recruiting explorers for expeditions.

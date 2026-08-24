@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ministry
+  - Inland Guard
 ---
 The Ministry serves as government for [[Caelum's Landing]] and the [[Church of Caelum]]'s many territories. Elected representatives from each territory meet in the [[Caelum's Landing#Ministerial Houses|Ministerial Houses]] to establish the demands of the people and how they will be met by law.
 

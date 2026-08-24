@@ -66,7 +66,7 @@ Quelling their rage, Arti joins their friends for home-cooked ramen; a Blue-Bell
 >
 > *—Blue-Belly cheers up Bantonio*
 
-### Sun District
+### Saviour's Ward
 
 Heading back to Caelum's Landing, Firien encourages Gomruss to seek the advice of Constable Denover regards his debt; he may be a victim of exploitation. Barging into the barracks on Saint Lydia's Way, Gomruss' booming voice startles the weary constable. He pinches the bridge of his nose as he listens to Gomruss' predicament. The two dragonborn are guided into the office where they meet Kahkir, a short, rooster-like aarakocra wearing half-moon glasses.
 

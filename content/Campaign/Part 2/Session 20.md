@@ -24,7 +24,7 @@ Unbeknownst to the warforged, Blythe is also skulking around the History section
 
 ## 996, Roscidas 20th
 
-### Calligo Way
+### Cable Car
 
 The next morning, the Six of Steel catch the earliest cable car to Ingenium. Bantonio is excited to find a photograph of the Six of Steel on the front page of the local newspaper. The article recounts the plays of the New Blood Tournament winners with particular emphasis on Firien's rise to public acclaim. Guy smirks when he spies that the CSCA's and GGC's shares have decreased in value owing to the discovery of the resonite deposit on Tenebrae's Refuge. Firien spots an article about the incident. Caelum's Landing University has incurred a severe fine for allowing use of a teleportation circle reported to be malfunctioning. To Firien's surprise, the priestess leading the squad to exorcise the will-o'-wisps is Lenna Madizos, their older sister.
 

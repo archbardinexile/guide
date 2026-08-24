@@ -32,7 +32,7 @@ The man from Ruby takes the first pot with a high turn. It appears the debt coll
 
 Gracious in defeat, the debt collector offers some advice. He taps Gomruss' paperwork and highlights the section which states Gomruss 'shall receive 75% of profits gained in the sale of "Dice Monarchs" sets'. Is it possible that River Chapman renamed the game to avoid sending Gomruss the profits? Smoke rises from Gomruss' lips as he begins to quake in fury!
 
-### Sun District
+### Saviour's Ward
 
 Gomruss races back to Saint Lydia's Way with new evidence and once again seeks the legal advice of Kahkir. According to the aarakocra, if Gomruss' theory is correct then he would indeed have grounds to sue River Chapman. However, he would need more than circumstantial evidence. Perhaps testimony from fellow exploited patrons or a record of Resin Curios Inc. accounts. Furthermore, he would need the funds to hire a lawyer.
 

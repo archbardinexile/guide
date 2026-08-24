@@ -6,7 +6,7 @@ date: 2025-01-26
 
 A magical green fire is the only source of illumination as Arti finds themself staring at the ceiling of a dilapidated cottage. They are paralysed, the metal of their body cold to the touch. They hear humming; a tune they do not recognise. Arti's dream visitor once again looms over them, thousands of ethereal hands protruding from their torso and back. They reach into Arti's chest to begin weaving magical fibres. Arti perceives wisps of darkness bleeding from beneath the figure's cascading hair and a glint of purple where its left eye should be. Arti returns to consciousness in Hadley's workshop.
 
-Arti takes a moment to amend their drawing of the dream visitor and memorise the tune it was humming. They then seek out Adelaide in her office. Arti finds the Commission's chief in dire need of caffeine after an all-nighter and makes her a coffee. Arti offers to spearhead today's meeting with the Exarch. Adelaide agrees and she, Arti and Hadley convene with Firien in the Wind District while Guy, Gomruss, Blythe and Bantonio go shopping.
+Arti takes a moment to amend their drawing of the dream visitor and memorise the tune it was humming. They then seek out Adelaide in her office. Arti finds the Commission's chief in dire need of caffeine after an all-nighter and makes her a coffee. Arti offers to spearhead today's meeting with the Exarch. Adelaide agrees and she, Arti and Hadley convene with Firien in Merchant's Ward while Guy, Gomruss, Blythe and Bantonio go shopping.
 
 ### The Oratory
 

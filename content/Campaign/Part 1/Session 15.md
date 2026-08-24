@@ -4,9 +4,9 @@ date: 2025-02-02
 ---
 While the Six of Steel take lunch, Firien discusses with Hlynur the druids' progress restoring the oasis on their home earthmote of Madanau. According to the Archdruid, though the portal has been stabilised, its connection to the elemental plane of water will occasionally falter, causing it to belch hellish sludge. The druids continue to research the phenomenon using Pen Fynnon's own portal as an example. Hlynur the offers the Six of Steel use of Pen Fynnon's teleportation circle so they might complete their errands promptly. While Falvalor offers a farewell to Blythe, Bantonio coos over the goldfinch that has begun to make a nest in Arti's alcove. Arti names their new friend Addie.
 
-### Sun District
+### Saviour's Ward
 
-The party step onto the teleportation circle and find themselves outside the gates of Caelum's Landing University, a short walk from the Sun District. The party's first errand is to leave an anonymous tip at the Inland Guard barracks on Saint Lydia's Way. Blythe is able to slip a note to the receptionist without being noticed. When the receptionist reads the note warning of Silas Beckonhand's guilt, she rushes to Denover's office. Next, the party visit the Bounty Hunters Lodge and employ Gerti to send a 25-word message to Cade.
+The party step onto the teleportation circle and find themselves outside the gates of Caelum's Landing University, a short walk from Saviour's Ward. The party's first errand is to leave an anonymous tip at the Inland Guard barracks on Saint Lydia's Way. Blythe is able to slip a note to the receptionist without being noticed. When the receptionist reads the note warning of Silas Beckonhand's guilt, she rushes to Denover's office. Next, the party visit the Bounty Hunters Lodge and employ Gerti to send a 25-word message to Cade.
 
 > "Cade, the Six of Steel want you to meet them on Little Nox ASAP—that's one word, right? Aww crap! Erm... it's about Silas. Okay bye."
 >

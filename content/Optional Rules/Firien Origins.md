@@ -503,7 +503,7 @@ Firien blinks, a mixture of awe and confusion in their fiery topaz eyes. These w
 
 ---
 
-As the cable car crests the shore of Fundus, the cabin is once again filled with sunlight. The chugging of the engine slows and the car rises onto the platform. "Thank you for travelling on the Calligo Way with us today, everyone, we are now arriving at Fundus Park. Please take care as you exit the station today as there is a protest in progress. Taxi services are available to your right on your way out, thank you." The other passengers pre-emptively stand from their seats and throw their luggage over their shoulders. Peering out the window, Firien can see the protesters being ushered away from the platform by the Inland Guard and several Clerics of Caelum. As the car door opens, Firien is bombarded by the discord of the protest.
+As the cable car crests the shore of Fundus, the cabin is once again filled with sunlight. The chugging of the engine slows and the car rises onto the platform. "Thank you for travelling with us today, everyone, we are now arriving at Fundus Park. Please take care as you exit the station today as there is a protest in progress. Taxi services are available to your right on your way out, thank you." The other passengers pre-emptively stand from their seats and throw their luggage over their shoulders. Peering out the window, Firien can see the protesters being ushered away from the platform by the Inland Guard and several Clerics of Caelum. As the car door opens, Firien is bombarded by the discord of the protest.
 
 "What's that all about?"
 
@@ -546,7 +546,7 @@ Keijo links arms with his master briefly, offering a farewell before turning bac
 
 "Maybe. I genuinely love working at the bakery. In fact, I love all the steps of it. Going into the fields to help harvest the wheat, taking it to the mill to have it ground into flour. Bringing it back, firing up the ovens ready to make something delicious. It really makes you appreciate the communal effort it takes to feed everyone. It makes them happy. I'm proud to be a part of it." Keijo makes big gooey eyes at Firien. Hearing the dragonborn talk about their passions made his cheeks swell just a little.
 
-"I love working with the community too. The work may be tough some days, but it doesn't feel like work at all when you're among friends; when you're making a difference." The pair soon enter the Wind District where the bustle of the city quickly becomes apparent. The road forks into several streets of housing, market stalls, taverns, general goods stores and even alchemists. The smell of food fills Firien's nostrils as they venture forth. Firien is just thankful it's difficult to get lost with the great spire of the Oratory visible from anywhere in the city. Setting the imposing structure in their sights, Firien walks briskly onawrd, hoping not to get swept up in whatever nonsense Caelum's Landing might have in store.
+"I love working with the community too. The work may be tough some days, but it doesn't feel like work at all when you're among friends; when you're making a difference." The pair soon enter Merchant's Ward where the bustle of the city quickly becomes apparent. The road forks into several streets of housing, market stalls, taverns, general goods stores and even alchemists. The smell of food fills Firien's nostrils as they venture forth. Firien is just thankful it's difficult to get lost with the great spire of the Oratory visible from anywhere in the city. Setting the imposing structure in their sights, Firien walks briskly onawrd, hoping not to get swept up in whatever nonsense Caelum's Landing might have in store.
 
 "Fresh fish! Caught traditionally from the banks of the Fountainhead."
 
@@ -588,11 +588,11 @@ Keijo links arms with his master briefly, offering a farewell before turning bac
 
 ---
 
-The Sun District was where most of Caelum's Landing's housing was situated. Thankfully it was much quieter here. Home-makers were hanging out the washing as children played happily in streets illuminated by lighting. To Firien's surprise, no guards questioned their approach to the Oratory. Rather, the grounds were open to the public. They passed several Caelumites praying at the outdoor shrines, while groundskeepers tended to the flower beds in the surrounding park. The Oratory itself was a brilliant grey marble with sharp architecture. Firien had to crane their neck just to see all the way to the top of the spire. The large double doors were open and waiting for them.
+Saviour's Ward was where most of Caelum's Landing's housing was situated. Thankfully it was much quieter here. Home-makers were hanging out the washing as children played happily in streets illuminated by lighting. To Firien's surprise, no guards questioned their approach to the Oratory. Rather, the grounds were open to the public. They passed several Caelumites praying at the outdoor shrines, while groundskeepers tended to the flower beds in the surrounding park. The Oratory itself was a brilliant grey marble with sharp architecture. Firien had to crane their neck just to see all the way to the top of the spire. The large double doors were open and waiting for them.
 
 "Guess I should find out where I'm supposed to go." Firien looks to the monk beside them and tilts their head when Keijo offers a warm smile. "Thanks for walking with me. Which way is the temple from here?"
 
-"My pleasure! It's north-west of here. If you head through the Cloud District you'll find Pilgrim's Road which heads out of the city and through the foothills."
+"My pleasure! It's north-west of here. If you head through Craftsman's Ward you'll find Pilgrim's Road which heads out of the city and through the foothills."
 
 "I'll keep that in mind. Have a good day now." Firien doesn't exactly want to dismiss the monk so quickly. But they feel like they have to be focused for what's to come. They turn back to the imposing entrance and square their shoulders. "Wish me luck"
 

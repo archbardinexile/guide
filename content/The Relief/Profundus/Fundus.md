@@ -7,35 +7,44 @@ aliases:
   - River Fountainhead
   - Fountainhead Falls
   - Pen Ffynnon
+  - Fundus Park
+  - Sundered Peaks
+  - Sunward Wharf
 ---
 ###### Summary
 
-At the centre of the [[The Relief|Relief]], Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. Boasting ten thousand square miles of land, the [[Fio#Earthmotes|earthmote]]'s underbelly glimmers with enchanted [[index#Resonite|resonite]] ores that keep it afloat. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's south-western region. Here, scattered windmills serve as the primary residences for farmers and fishermen. Fundus hosts the capital city of the [[Church of Caelum]], [[Caelum's Landing]].
+Fundus is the [[Fio#Earthmotes|earthmote]] at the very centre of the [[The Relief|Relief]], upon which sits the capital city of the [[Church of Caelum]], [[Caelum's Landing]]. Fundus is also the colloquial term for the vast stretches of farmland that constitute a majority of the earthmote's western region. Fundus appears to those sailing the [[Altum Sea]] below as a mighty inverted mountain in the clouds. The earthmote's underbelly glimmers with enchanted resonite ores that keep it afloat.
 
-Fundus' nearest neighbours, such as [[Tenebrae's Refuge]] and [[Ingenium]] are connected by a network of powered cable cars and zip lines. The Church's territories are also connected by teleportation circles, generously established by the mages of [[Caelum's Landing University]]. All of the Church's territories are governed or supervised by a *Prefect*, appointed by the Church.
+Boasting ten thousand square miles of land, Fundus is connected to its nearest neighbours—[[Tenebrae's Refuge]], [[Ingenium]], [[Atada and Atado]]—by a network of [[index#Resonite|resonite]]-powered cable cars and zip lines. The Church's territories are also connected by teleportation circles, generously established by the mages of [[Caelum's Landing University]].
+
+## Caelum's Landing
+
+![[Caelum's Landing#Summary]]
 
 ## Fundus Park
 
-Fundus Park is a small town on Fundus' south-western shore which famously houses the earliest known cable car station, founded in 756 PO. It has several amenities one might need after a lengthy journey. A tavern, several inns, even a tourist information centre. The park itself has rolling green hills and a lush pond with a statuesque fountain in the centre. Beyond the park can be found patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers.
+Founded in 756 PO by [[Artifex Calligo]], Fundus Park is a large town spanning Fundus' western coast, built around the world's first cable car station. It has essential adventuring amenities such as the Guildhall, several inns, even a tourist information centre. The park itself has rolling green hills and a lush pond with a statuesque fountain at its centre. Beyond the park can be found patchwork fields of yellow rapeseed, maize, wheat and other cereals dotted with the windmill homes of farmers.
+
+### Crowswood Place
+
+North of Fundus Park, Crowswood Place is the stately manor home of the [[The Commission|Commission]] for the Research of Offshore Worlds, or Crows for short. Members of this organisation are are tasked with surveying earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [[The Commission|Order of the Lantern]]. These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the [[Fio#The Miasma|Miasma]].
 
 ## Sunward Wharf
 
+Sunward Wharf is a small town situated on Fundus' north-eastern peninsula. It is famous for its expansive docks, capable of launching airships for long-distance public transport. Citizens enjoy unrestricted travel to distant Church territories such as [[Micantrum]] and the [[Manyshells]].
+
 ## Sundered Peaks
 
-The Sundered Peaks are all that remain of the Asgwrn Mountains. During the [[index#The Rising|Rising]], when [[Fundus]] rose into the sky, a fissure divided the mountain range. One half now constitutes Fundus' northern shore while the other half borders the [[Resonant Mines]] below. Carved into the stone of the Sundered Peaks north of [[Caelum's Landing]] are the ruins of Caer Wraidd, an ancient citadel more than two millennia old. It was the residence of [[Anfarwol]], the immortal elf-king of [[Caelum's Landing|Anfang]]. It is now a site of great archaeological interest.
+The Sundered Peaks are all that remain of the Asgwrn Mountains. During the [[index#The Rising|Rising]], when Fundus rose into the sky, a fissure divided the mountain range. One half now constitutes Fundus' northern shore while the other half shields the [[Resonant Mines]] below.
 
-## Crowswood Place
+### Caer Wraidd
 
-Crowswood Place is the stately manor home of the [[The Commission|Commission]] for the Research of Offshore Worlds, or Crows for short. Situated west of the [[Caelum's Landing#The Oratory|Oratory]], members of this organisation are are tasked with surveying the earthmotes in the far reaches of unexplored territory. Crowswood Place is also home to a clandestine lodge of blood hunters known as the [[The Commission|Order of the Lantern]]. These hunters elect to undergo a curious ritual of their own design which allows them to navigate the depths of the [[Fio#The Miasma|Miasma]].
+Carved into the stone of the Sundered Peaks north of Caelum's Landing are the ruins of Caer Wraidd, an ancient citadel more than two millennia old. It was the residence of [[Anfarwol]], the immortal elf-king of [[Caelum's Landing|Anfang]]. It is now a site of great archaeological interest.
 
 ## Dawnroot Forest
 
-A statue of Caelum presides over the entrance to the Dawnroot Forest. The River Fountainhead leads north-east to its source; a portal to the elemental plane of water. Along the river can be found numerous fishing villages and watermills. On Fundus' south-western shore, a great waterfall is fuelled by the River Fountainhead that leads north-east to the Dawnroot Forest.
+Bordering Caelum's Landing to the east, the Dawnroot Forest mirrors its urban twin in size, expanding toward Fundus' coastal villages and the [[#Sundered Peaks]] to the north. Here, a statue of Caelum marks the entrance to the forest and the very centre of the Relief, where [[Caelum Sol Orbis]] shielded Fundus from the Miasma one thousand years ago. The River Fountainhead flows south from the densest part of the Dawnroot Forest where the [[Dawnroot Druids]] make their home. The river diffuses into the air when it reaches Fundus' southern shore, nourishing a perpetual rainbow below.
 
 ### Pen Ffynnon
 
-In the heart of the Dawnroot Forest lies Pen Ffynnon, the ancestral home of the [[Dawnroot Druids]]. These druids are sworn to protect and nurture the portal in the centre of the lake.
-
-### River Fountainhead
-
-### Fountainhead Falls
+Pen Ffynnon is the name of the [[Dawnroot Druids]]' ancestral home. Founded during the reign of [[Anfarwol]], this sylvan settlement is protected by an imperceptible illusion that manoeuvres wayward travellers away from the River Fountainhead's sacred source—a portal to the elemental plane of water. The Dawnroot Druids swear to protect and nurture the portal.

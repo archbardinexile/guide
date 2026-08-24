@@ -4,7 +4,7 @@ date: 2024-10-27
 ---
 ## 996, Roscidas 14th
 
-### Calligo Way
+### Cable Car
 
 Looking out the window, the adventurers see the earthmote Fundus. It appears like a mighty inverted mountain in the clouds. Its underbelly glimmers with enchanted purple resonite ores. The River Fountainhead cascades over the shore and diffuses into the air nourishing a perpetual rainbow below. Directly beneath Fundus lie the Resonant Mines; the crater from which Fundus arose almost one thousand years ago. The mine is a crystalline sinkhole with scaffolding spiralling down to seemingly never ending depths. Floating chunks of enchanted ore that have separated from Fundus litter the sky, appearing like an enormous explosion frozen in time.
 
