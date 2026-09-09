@@ -1,4 +1,4 @@
-## Garnetgrinder's Garnet Grinder
+## Gerti's Garnet Grinder
 
 *2nd-level evocation*
 

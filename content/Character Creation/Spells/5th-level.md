@@ -1,4 +1,4 @@
-## Cralee's Magnetic Launcher
+## Roshia's Magnetic Launcher
 
 *5th-level Evocation*
 

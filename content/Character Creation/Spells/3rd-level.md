@@ -1,4 +1,4 @@
-## Bandorul’s Surface Shift
+## Gomruss' Surface Shift
 
 *3rd-level evocation*
 
@@ -13,7 +13,7 @@ Choose a medium size or lower creature that you can see within range. For the du
 
 ---
 
-## Bandorul's Unlock Potential
+## Gomruss' Unlock Potential
 
 *3rd-level enchantment*
 
