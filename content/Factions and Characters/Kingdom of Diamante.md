@@ -9,15 +9,7 @@ aliases:
 ---
 ###### Summary
 
-The Kingdom of Diamante is the largest nation among four on the [[Fio#Earthmotes|earthmote]] [[Atada and Atado|Atada]]. Ruled by Queen [[Carina Diamante IV]] and her consort, [[Rafael de Florencia]], its neighbouring nations, the [[#Duchy of Ruby]] and the [[#Duchy of Zaffiro]] have sworn fealty to Diamante's monarch.
-
-The nation boasts great wealth and pride in their culture as well as strong relations with the [[Church of Caelum]].
-
-The [[Émeraude Republic]], formerly a vassal state of the kingdom, seceded peacefully in 808 PO with the support of Exarch [[Manus Sol Orbis]].
-
-###### History
-
-Rex invades Atada and Atado
+The Kingdom of Diamante is the prominent feudal nation that governs the realms of [[Atada and Atado]]. Ruled by Queen [[Carina Diamante IV]] and her consort, [[Rafael de Florencia]], the nation boasts great wealth and pride in their culture as well as strong relations with the [[Church of Caelum]]. Its neighbouring nations, the [[#Duchy of Ruby]] and the [[#Duchy of Zaffiro]] have sworn fealty to Diamante's monarch, while the [[Émeraude Republic]] seceded in 808 PO with the support of Exarch [[Manus Sol Orbis]].
 
 ###### Notable Members
 
