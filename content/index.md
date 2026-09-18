@@ -26,7 +26,7 @@ Only once the turmoil had subsided did Caelum fall to his knees. Having inspired
 > 
 > *—Barty*
 
-## one thousand years later
+## One thousand years later
 
 A millennium of living in such isolated conditions has inspired a wealth of technological innovations across the Relief. It is commonplace to find valiant adventurers flying off to uncharted territories on canvas gliders, and expeditions of hot air balloons searching for new lands to settle. Airships from foreign lands will deliver dignitaries hoping to take advantage of Caelum's Landing's thriving marketplace, and tourists can travel to nearby earthmotes on powered cable cars. The most wealthy of denizens can even be found driving rudimentary automobiles, powered by resonite.
 
