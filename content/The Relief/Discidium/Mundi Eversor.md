@@ -5,7 +5,7 @@ aliases:
 ---
 ###### Summary
 
-Mundi Eversor was the name of the colossus said to have been created by [[Tenebrae]] to destroy the world. The [[index#The Rising|Ascensus in Caelum]] teaches that one thousand years ago, [[Caelum Sol Orbis]] did battle with Eversor and in its destruction the [[Fio#The Miasma|Miasma]] was released from its dark, crystalline heart.
+Mundi Eversor was the name of the colossus created by [[Tenebrae]] supposedly to destroy the world. The [[index#The Rising|Ascensus in Caelum]] teaches that one thousand years ago, [[Caelum Sol Orbis]] did battle with Eversor and in its destruction the [[Fio#The Miasma|Miasma]] was released from its dark, crystalline heart.
 
 ### Appearance
 

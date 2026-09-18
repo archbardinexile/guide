@@ -9,7 +9,7 @@ The Altum Sea expands across the [[The Relief|Relief]] and into the [[Fio#The Mi
 
 ## Vena Trench
 
-The Vena Trench is a seafloor trench that spans the divide between [[Profundus]] and [[Discidium]]. The trench is estimated to be 420 miles long, 120 miles wide (at its widest point), and six miles deep (at its deepest point).
+The Vena Trench is a seafloor trench that spans the divide between [[Profundus]] and [[Discidium]]. The trench is estimated to be 420 miles long, 120 miles wide (at its widest point), and six miles deep (at its deepest point). Given its size, scholars speculate that the trench is the void left behind after the [[Fio|earthmotes]] [[Fundus]], [[Atada and Atado]] rose into the sky, one thousand years ago. Floating chunks of [[index#Resonite|resonite]] ore litter the skies between the trench and the earthmotes above it, like an explosion frozen in time.
 
 ### Abyssus
 
