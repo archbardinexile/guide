@@ -3,9 +3,11 @@ aliases:
   - Cor
   - War of Accession
 ---
+###### Summary
+
 Cor Sol Orbis was the descendant of [[Pluvia and Nebula Sol Orbis|Pluvia Sol Orbis]] and the first Exarch of the second Sol Orbis dynasty. Cor is described as being warm and compassionate, showing resolute mercy even in the heat of battle. He and [[Rex Sol Orbis]] would return to [[Caelum's Landing]] in 196 PO to lay claim to the exarchy. The splintered [[Church of Caelum]] would split into two factions, beginning the War of Accession. Seven years later, Cor defeated Rex at the Battle of [[Fundus|Fountainhead Falls]] and chose to spare his life. The newly crowned Exarch would go on to declare his cousin Grand Paladin.
 
-#### War of Accession (196-203 PO)
+#### War of Accession (196–203 PO)
 
 The War of Accession was a seven-year period of conflict between the heirs of [[Pluvia and Nebula Sol Orbis]], [[Cor Sol Orbis|Cor]] and [[Rex Sol Orbis]]. Cor and Rex arrived in Caelum's Landing on the same day in 196 PO to lay claim to the exarchy. Their opposing ideologies would prove to have equal influence over the splintered [[Church of Caelum]], resulting in the formation of two warring factions. The war would end with Rex's defeat at the Battle of [[Fundus|Fountainhead Falls]] in 203 PO. Cor chose to spare his cousin's life. The newly crowned Exarch would go on to declare Rex Grand Paladin.
 
