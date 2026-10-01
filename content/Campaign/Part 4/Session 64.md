@@ -1,5 +1,5 @@
 ---
-title: 64. Cold, cold war
+title: 64. Cold, Cold War
 date: 2026-02-15
 ---
 Crossing the threshold into Farwest, Guy turns briefly to observe Anchorheart's ships. With a githzechi trap lying in wait, they’d dare not follow the catamaran. Instead, they tack north—presumably to regroup with their allies. Approaching Pedn Vounder, the rescue party find the grotto's waters stained red with blood. With haste, they bring the catamaran ashore. Guy carries Agnes to Firien, hoping his friend might offer aid. Exhaling their sorrow, Firien gathers everyone before uttering a prayer of healing.
