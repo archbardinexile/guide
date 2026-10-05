@@ -32,9 +32,9 @@ Bantonio wakes with a start when Firien knocks on his door. The dragonborn enter
 
 ### Sullivanwick
 
-Guy decides to stay behind and assist with Elyse's preparations while the Six of Steel venture into Sullivanwick. The city's white stone architecture has been meticulously scrubbed of invading algae; a veneer for tourists that fails to hide evidence of poverty and classism. Negotiating their way through the crowded market, Firien discovers a signpost with directions to the Church; the Hissing Hand, a local tavern; and the Bard's College. Bantonio's eyes widen. Perhaps he could find his niece there. The Six of Steel split up with intent to rendezvous at the tavern.
+Guy decides to stay behind and assist with Elyse's preparations while the Six of Steel venture into Sullivanwick. The city's white stone architecture has been meticulously scrubbed of invading algae; a veneer for tourists that fails to hide evidence of poverty and classism. Negotiating their way through the crowded market, Firien discovers a signpost with directions to the Church; The Hissing Hand, a local tavern; and the Bard's College. Bantonio's eyes widen. Perhaps he could find his niece there. The Six of Steel split up with intent to rendezvous at the tavern.
 
-Gomruss and Arti purchase a set of four elemental gems from a magic shop. The elderly deep gnome proprietor recommends a Cloak of the Manta Ray to aid their adventures at sea. The pair decide to purchase it as a gift for Guy. With some haggling, the total comes to 1000 gold. Meanwhile, Bantonio conspicuously wanders the Bard's College grounds. He approaches a lecturer to ask after his niece, posing as her mentor. The lecturer is unable to divulge Elisa's personal information, but alludes to her frequenting the Hissing Hand as a performer.
+Gomruss and Arti purchase a set of four elemental gems from a magic shop. The elderly deep gnome proprietor recommends a Cloak of the Manta Ray to aid their adventures at sea. The pair decide to purchase it as a gift for Guy. With some haggling, the total comes to 1000 gold. Meanwhile, Bantonio conspicuously wanders the Bard's College grounds. He approaches a lecturer to ask after his niece, posing as her mentor. The lecturer is unable to divulge Elisa's personal information, but alludes to her frequenting The Hissing Hand as a performer.
 
 Arriving at the Church, Firien and Blythe discover that a donation is required to enter. Firien sneers as they storm past the ineffectual guards. Their entrance interrupts Prefect Jeremias Blackflight's conversation with Bertrand Magnier, Minister for the Duchy of Ruby. The minister exits with a smug expression, affording Firien the privacy to berate the prefect. They demand to know Blackflight's motive for smuggling basilisk venom. The prefect's eye twitches; evidently the man was under tremendous stress.
 
@@ -50,7 +50,7 @@ Blackflight rubs his temples as he examines the map in his office. He finds eigh
 
 ### The Hissing Hand
 
-The Six of Steel reunite at the Hissing Hand. Blythe climbs atop Bantonio's shoulders to survey the exuberant crowd. A young woman approaches the corner stage with a guitar. The crowd hush in respect as a spotlight falls on Elisa Santiago. Bantonio marvels at his niece's command the crowd. Her lyrics resonate with his plight like never before.
+The Six of Steel reunite at The Hissing Hand. Blythe climbs atop Bantonio's shoulders to survey the exuberant crowd. A young woman approaches the corner stage with a guitar. The crowd hush in respect as a spotlight falls on Elisa Santiago. Bantonio marvels at his niece's command the crowd. Her lyrics resonate with his plight like never before.
 
 > She promises to fight them all when it all becomes too much.  
 > And he, he curses at the world for leaving him behind, and he's falling out of touch.  
