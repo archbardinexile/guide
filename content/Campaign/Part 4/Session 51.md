@@ -34,7 +34,7 @@ Jaagins bristles when Gomruss announces his quest to the Manyshells. Turning sev
 
 Guy, Bantonio and Blythe replenish their potions and ammunition before regrouping with Arti, Firien and Gomruss in the market. Firien attempts to contact Subira. To their relief, she whispers a concise reply. "Captured... venom destroyed." Consulting Agnes via sending, Firien learns that Runnelstone was attacked by pirates two days ago. Guy's former nanny is unable to meet the Six of Steel as she is aboard a ship set to rendezvous with the pirates.
 
-Gomruss casts sending to Roshia. She has arrived safely in Arx and plans to assist Doctor Gurdeep Darshan on an expedition into a newly unearthed ruin in Os Terrae. Roshia seems confused when Gomruss mentions the attack on the druids. Could the Inquisition have altered her memory? If so, Roshia requests Gomruss return her pocket watch as soon as possible. Studying the airship timetables, Guy recommends the cheaper airship from Sunward Wharf to Longrock; a four-day journey.
+Gomruss casts sending to Roshia. She has arrived safely in Arx and plans to assist Doctor Gurdeep Darshan on an expedition into a newly unearthed ruin in Os Terrae. Roshia seems confused when Gomruss mentions the attack on the druids. Could the Inquisition have altered her memory? If so, Roshia requests Gomruss return her pocket watch as soon as possible; it had the power to restore her memory. Studying the airship timetables, Guy recommends the cheaper airship from Sunward Wharf to Longrock; a four-day journey.
 
 ## 996, Flavum 1st
 
