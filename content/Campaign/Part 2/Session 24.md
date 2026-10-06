@@ -44,7 +44,7 @@ Blythe and Bantonio arrive soon after, having learned of an exclusive tour sched
 
 Meanwhile, Gomruss privately disrobes in his bedroom after struggling to connect with Tymora. Admiring himself in the mirror, he jumps out of his scales when his reflection blows a raspberry at him! Gomruss bellows a thousand questions but his reflection can only answer in charades. The dragonborn in the mirror jumps for joy when Gomruss finally catches on. Overexcited, Gomruss thunders downstairs to share the news with his friends. Guy and Agnes enter the House of Sune just as Gomruss charges through the foyer, stark naked.
 
-> "Firien! River Chapman has Tymora's emissary imprisoned in the plane of mirrors!"
+> "Firien! River Chapman has Tymora's emissary imprisoned in the Plane of Mirrors!"
 >
 > "Good lord, what have I gotten myself into?"
 >

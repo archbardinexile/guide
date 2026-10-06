@@ -32,13 +32,13 @@ Downstairs, Arti plucks a bundle of flowers from his shoulder and pots yet anoth
 
 At the table, Guy observes Gomruss as he munches on a bread roll. The dragonborn had spent his downtime using graviturgy to help reconstruct the Aubrey. Now he was evidently contemplating something very deeply. Gomruss had not yet revealed the taxing nature of the flashbacks he was having. He could not yet determine if they were mere fantasies or something more sinister. The thought of returning to Arx filled him with dread.
 
-Firien joins the others as Elyse, Rose and Agnes arrive. Agnes thanks Firien for visiting her at the Church. Though she had been discharged, her wound still required her to wear a brace. She intends now to return to Diamante, perhaps teach at the College of Retainers where she studied in her youth. Elyse takes Guy aside and he explains how hesitant he is to leave the Six of Steel in their current situation.
+Firien joins the others as Elyse, Rose and Agnes arrive. Agnes thanks Firien for visiting her at the Church. Though she had been discharged, her wound still required her to wear a brace. She intended now to return to Diamante, perhaps teach at the College of Retainers where she studied in her youth. Elyse beckons Guy aside. Guy explains how hesitant he is to leave the Six of Steel in their current situation.
 
 Gomruss receives an urgent sending from Roshia. She claims that the expedition into the newly unearthed Tomb of Darkhalijz has gone missing! Her investigations revealed that the expedition made it as far as the thief king's throne room, where a curious staff had been disturbed. Gomruss recalls his research regarding the thief king's collection of magical staves. One among them could imprison a creature within the Plane of Mirrors. With this knowledge, Elyse offers to expedite the party's journey to Arx by way of her new airship.
 
 ### Sullivanwick
 
-Elisa embraces Bantonio at the docks and thanks him for his unwavering support. As a farewell gift, she offers him her sheet music for 'The Ballad of the Six of Steel', a song by which she will remember him. Guy shares a fond farewell with Agnes, then suggests Rose accompany the party to Arx where she might rekindle her mercantile business. Rose accepts the offer with enthusiasm. As the airship rises, Firien spots Faust below. The wily mercenary offers a simple salute of thanks, which Firien returns.
+Elisa embraces Bantonio at the docks and thanks him for his unwavering support. As a farewell gift, she offers him her sheet music for 'The Ballad of the Six of Steel', a song by which she will remember him. Guy shares a fond farewell with Agnes, then suggests Rose accompany the party to Arx where she might rekindle her mercantile business. Rose accepts the offer with enthusiasm. As the airship rises, Firien spots Faust below. The wily mercenary offers a two-fingered salute of thanks, which Firien returns.
 
 ### Skies North of Farwest
 
@@ -54,11 +54,30 @@ Firien checks they're alone before contacting Spiro; they hadn't done so in ten 
 
 ## 996, Flavum 22nd
 
-The ship quakes in the early hours of the morning as Gomruss cries out in distress. Bantonio barges into Gomruss' room to find him hyperventilating. He calms the dragonborn with a shared chant of his catchphrase. Guy and Firien arrive to investigate the commotion. Gomruss claims to have had a nightmare and asks to speak with Firien alone. While Gomruss explains his misgivings about going to Arx, he absently fondles Roshia's pocket watch. The hands were out of sync, indicating a significant time dilation!
+The ship quakes in the early hours of the morning as Gomruss cries out in distress. Bantonio barges into Gomruss' room to find him hyperventilating. He calms the dragonborn by chanting his catchphrase. Guy and Firien arrive to investigate the commotion. Gomruss claims to have had a nightmare and asks to speak with Firien alone. While Gomruss explains his misgivings about going to Arx, he absently fondles Roshia's pocket watch. The hands were out of sync, indicating a significant time dilation!
 
-Gomruss yelps again, summoning the Six of Steel. He passes the pocket watch to each of his friends and the hands return to their normal position. The time dilation was only affecting him. Gomruss' heart begins to race. Perhaps his flashbacks were not dreams but memories locked away by magic! There was only one way to find out. Firien holds Gomruss' hand as he activates the watch. A wave of dispelling magic washes over him. Nothing. Firien shares their suspicion.
+Gomruss yelps again, summoning the Six of Steel. He passes the pocket watch to each of his friends and the hands return to their normal position. The time dilation was only affecting him. Gomruss' heart begins to race. Perhaps his flashbacks were not dreams but memories locked away by magic! There was only one way to find out. Firien holds Gomruss' hand as he summons the courage to activate the watch. A wave of magic washes over him. Nothing. Firien shares their suspicion.
 
 > "Gomruss, I don't think your memories have been magically modified. I think you've blocked them out yourself."
 > 
 > *—Firien to Gomruss*
 
+To Gomruss' surprise, the revelation only bolsters his resolve. The answers he needed were in Arx. Elyse calls for all stop, prompting the Six of Steel join her on deck. The airship had entered a dense fog. The sun was a mere pale disc in a white void. Ahead was a growing column of shadow. Elyse calls again for all stop, which the helmsman confirms. They weren't moving. Something enormous was approaching.
+
+The Six of Steel brace themselves as a hulking draconic muzzle emerges from the fog followed by two branching coral-like antlers. The creature's long multicoloured neck boasts seahorse-like ridges and undulating fins. It appears to examine the souls on deck with two beady eyes before bowing its head. There was someone on top of the creature! The silhouette waves and requests to come aboard. Two armoured boots hit the deck.
+
+> "Six of Steel. I'm so glad I found you, my name is Miyoko. You rescued me from the basilisk."
+>
+> *—Miyoko*
+
+The petrified Antiquan warrior! Miyoko explains that after the Commission freed her from her petrified state, she returned home to Primal Antiqua only to find it changed beyond her recognition. She sought out Aequor, Guardian of the Sea and friend to Antiqua, for advice. After several weeks of soul searching, she returned to the Commission and learned of Glimback's adventure in the Miasma.
+
+> "Arti, your father told me of your plight... Aequor can lead you to one of the pillars."
+> 
+> *—Miyoko*
+
+---
+
+Next: [[Session 66]]
+
+Previous: [[Session 64]]

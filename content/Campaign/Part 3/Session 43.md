@@ -28,7 +28,7 @@ The morkoth casts a dark shadow as it looms over the Verity, its dreadful eyes c
 
 ### Abandoned Spelljammer
 
-While the crew set about repairing the Verity, the Six of Steel investigate the spelljammer. Guy finds a plethora of salvageable resources including timber and canvas. In the bowels of the ship, Gomruss discovers the morkoth's treasure hoard. His eyes gleam as he digs through the mounds of gold and platinum. He estimates there must be at at least 36,000 gold! Amongst the curious items and weapons buried in the hoard, Firien finds three diamonds suitable for casting revivify. Gomruss is especially excited to find two candles of invocation. He could use these to reach the plane of mirrors.
+While the crew set about repairing the Verity, the Six of Steel investigate the spelljammer. Guy finds a plethora of salvageable resources including timber and canvas. In the bowels of the ship, Gomruss discovers the morkoth's treasure hoard. His eyes gleam as he digs through the mounds of gold and platinum. He estimates there must be at at least 36,000 gold! Amongst the curious items and weapons buried in the hoard, Firien finds three diamonds suitable for casting revivify. Gomruss is especially excited to find two candles of invocation. He could use these to reach the Plane of Mirrors.
 
 ---
 
