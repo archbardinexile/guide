@@ -12,7 +12,7 @@ Darkness. A familiar pressure smothers Guy's ears. He was underwater, yet he cou
 
 ### The Hissing Hand
 
-Guy wakes with a start. The morning sun had pierced the curtains at his bedside. It had been ten days since the siege of Farwest, yet his mind still dwelt on its repercussions. Thanks to the Six of Steel, Rose, Subira and Agnes were safe. Bhaldrom Anchorheart had been defeated and Elyse was to be given a commendation. Elyse had invited Guy to join her crew but he had not yet accepted her offer. Could he leave the Six of Steel at a time when they were most vulnerable? He snatches up the newspaper on his bedside table.
+Guy wakes with a start. The morning sun had pierced the curtains at his bedside. It had been ten days since the siege of Farwest, yet his mind still dwelt on its repercussions. Thanks to the Six of Steel, Rose, Subira and Agnes were safe. Bhaldrom Anchorheart had been defeated, the Crosscut Circle had escaped with the submarine and Elyse was to be given a commendation. Elyse had invited Guy to join her crew but he had not yet accepted her offer. Could he leave the Six of Steel at a time when they were most vulnerable? He snatches up the newspaper on his bedside table.
 
 ![[Boatswain's Call Article]]
 
@@ -26,7 +26,7 @@ Bantonio returns to The Hissing Hand with a healthy baked breakfast for the part
 > 
 > *—Bantonio consoles Firien*
 
-Bantonio had spent much of his downtime catching up with Elisa and providing support at her performances. He was thankful to have family in his life again, though Elisa could not yet reveal his existence to anyone. Encouraged by Bantonio's optimism, Firien resolves to buy a tuna at the fish market so they might bake a delicious meal and calm their nerves. Before that however, they needed to contact the remaining Feywild Ones. Buddleja agrees to meet the Six of Steel in Arx, where the Crosscut Circle have hidden the submarine.
+Bantonio had spent much of his downtime catching up with Elisa and providing support at her performances. He was thankful to have family in his life again, though Elisa could not yet reveal his existence to anyone. Encouraged by Bantonio's optimism, Firien resolves to buy a tuna at the fish market so they might bake a delicious meal and calm their nerves. Before that however, they needed to contact the remaining Feywild Ones. Buddleja agrees to meet the Six of Steel in Arx, where the Crosscut Circle took the submarine.
 
 Downstairs, Arti plucks a bundle of flowers from his shoulder and pots yet another houseplant for The Hissing Hand. It was the height of spring and Arti was in full bloom. He had spent his downtime sunbathing with Subira and inadvertently decorating all of Sullivanwick. While the aged tabaxi returned to Caelum's Landing, Elaina, Cylaros and Lothran agreed to journey to Arx with the Six of Steel.
 
