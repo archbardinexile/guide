@@ -42,7 +42,7 @@ Gomruss casts sending to Roshia. She has arrived safely in Arx and plans to assi
 
 As the airship's envelope deflates, two hydrofoils emerge from the gondola, converting the airship into a sailboat. Guy inhales the thick sea air, happy to be seaborne once again. Approaching the coast, the Six of Steel can see Runnelstone to the east. Though the conflict is over, columns of smoke continue to rise from fires in the harbour. Manoeuvring into Longrock bay, the passengers are greeted by warm sands and crystalline water. Sturdy stone buildings line tiered cliffs which encircle the bay.
 
-Firien heads straight for the local chapel, while Guy studies a local newspaper. According to The Lighthouse, the pirates used hot shots to set Runnelstone ablaze. The largest of the attacking ships was witnessed flying the flag of notorious pirate, Bhaldrom Anchorheart.
+Firien heads straight for the local chapel, while Guy studies a local newspaper. According to a lengthy article, the pirates used hot shots to set Runnelstone ablaze. The largest of the attacking ships was witnessed flying the flag of notorious pirate, Bhaldrom Anchorheart.
 
 Firien greets Chaplain Durzus, a dishevelled triton with long, green hair. He appears to have customised his heavy armour for swimming. Though Firien's clerical garb bore no Caelum iconography, the chaplain recognises them as a friend of the Church. His investigations led him to believe that the pirates' real target was Rose Merryn’s Pre-Loved Goods.
 

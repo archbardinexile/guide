@@ -12,7 +12,7 @@ Darkness. A familiar pressure smothers Guy's ears. He was underwater, yet he cou
 
 ### The Hissing Hand
 
-Guy wakes with a start. The morning sun had pierced the curtains at his bedside. It had been ten days since the siege of Farwest, yet his mind still dwelt on its repercussions. Thanks to the Six of Steel, Rose, Subira and Agnes were safe. Bhaldrom Anchorheart had been defeated, the Crosscut Circle had escaped with the submarine and Elyse was to be given a commendation. Elyse had invited Guy to join her crew but he had not yet accepted her offer. Could he leave the Six of Steel at a time when they were most vulnerable? He snatches up the newspaper on his bedside table.
+Guy wakes with a start. The morning sun had pierced the curtains at his bedside. It had been ten days since the siege of Farwest, yet his mind still dwelt on its repercussions. Thanks to the Six of Steel, Rose, Subira and Agnes were safe. Bhaldrom Anchorheart had been defeated and the Crosscut Circle had escaped with the submarine. Elyse had invited Guy to join her crew but he had not yet accepted her offer. Could he leave the Six of Steel at a time when they were most vulnerable? He snatches up the morning newspaper.
 
 ![[Boatswain's Call Article]]
 
@@ -62,7 +62,7 @@ Gomruss yelps again, summoning the Six of Steel. He passes the pocket watch to e
 > 
 > *—Firien to Gomruss*
 
-To Gomruss' surprise, the revelation only bolsters his resolve. The answers he needed were in Arx. Elyse calls for all stop, prompting the Six of Steel join her on deck. The airship had entered a dense fog. The sun was a mere pale disc in a white void. Ahead was a growing column of shadow. Elyse calls again for all stop, which the helmsman confirms. They weren't moving. Something enormous was approaching.
+To Gomruss' surprise, the revelation only bolsters his resolve. The answers he needed were in Arx. Elyse calls for all stop, prompting the Six of Steel to join her on deck. The airship had entered a dense fog. The sun was a mere pale disc in a white void. Ahead was a growing column of shadow. Elyse calls again for all stop, which the helmsman confirms. They weren't moving. Something enormous was approaching.
 
 The Six of Steel brace themselves as a hulking draconic muzzle emerges from the fog followed by two branching coral-like antlers. The creature's long multicoloured neck boasts seahorse-like ridges and undulating fins. It appears to examine the souls on deck with two beady eyes before bowing its head. There was someone on top of the creature! The silhouette waves and requests to come aboard. Two armoured boots hit the deck.
 
