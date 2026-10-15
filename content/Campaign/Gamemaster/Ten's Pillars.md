@@ -4,7 +4,7 @@ draft: true
 Whoever touches a pillar is granted a vision (1d10). Each pillar holds one of Ten's memories:
 
 1. [ ] Ten paints a picture of the Miasma. Chauntea asks them to construct the pillars to provide places of refuge for nature.
-2. [ ] Ten orates to a gang of vandals who destroy the first pillar. Ten is helped by Syl and Raikhan, faithfuls of Chauntea and Bahamut respectively.
+2. [x] Ten orates to a gang of vandals who destroy the first pillar. Ten is helped by Syl and Raikhan, faithfuls of Chauntea and Bahamut respectively.
 3. [ ] Ten, Syl and Raikhan imbue a pillar. They are sought out by Lao Tan, a Lathander cleric who warns of Caelum's treachery.
 4. [ ] Ten and Lao Tan seek the League of Archfiends to help construct Mundi Eversor.
 5. [ ] Malaika returns with proof of Caelum's treachery. Construction of Eversor begins.

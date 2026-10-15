@@ -58,7 +58,7 @@ The Miasma is a magical purple fog that—with the exception of the Relief—env
 
 ## Earthmotes
 
-Earthmotes are pieces of land that, due to the influence of magic, float above the ground. Despite their appearance, earthmotes are as durable and stable as any island at sea level. Every earthmote is unique in size, shape and altitude. A few move either in programmed routes or erratically, but most are stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, don't have any effect on an earthmote's ability to float.
+Earthmotes are pieces of land that, due to the influence of magic, float above the ground. Despite their appearance, earthmotes are as durable and stable as any island at sea level. Every earthmote is unique in size, shape and altitude. A few move either in programmed routes or erratically, but most are stationary, hovering near an earthbound feature. Disruptions, whether natural or magical, don't have any effect on an earthmote's ability to float. You can determine the size and biome type of an earthmote or region using the [[earthmote tables]] in optional rules.
 
 ## Finding Adventure
 
