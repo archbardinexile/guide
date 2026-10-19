@@ -9,7 +9,7 @@ There is a spring in Firien's step as the weather isn't so harsh today. They cat
 
 "Hey Phinny! You in or out!?" Firien then knocks on the door. The door opens and Firien is greeted by Lora, a buxom elf of middling age, and wife to his friend, Phinny. She carries their infant child in a papoose around her neck.
 
-"Hey Firien, good to see you. Phinny is just checking on the wheat. Say hi, Kiho." The elven child makes grabby hands at his mother's finger while staring at Firien.
+"Hey Firien, good to see you. Phinny is just checking on the wheat. Say hi, Kiho." The elf child makes grabby hands at his mother's finger while staring at Firien.
 
 "Hi, Lora. Hey there Kiho, you being good?" Firien lowers their head slightly in an instinctive effort to appear smaller, looking down at the child with eyes that glimmer like fiery topazes. They smile. "Understood, I'm in no rush. How's the day treating you?" Kiho, as always, is completely fascinated by Firien's big orange face. The child reaches out to boop Firien's snoot.
 
@@ -143,7 +143,7 @@ How was this possible? Firien looks up. A storm cloud looms overhead. It wasn't 
 
 "Yeah- yeah about that..." Their eyes catch the smoke on the horizon, and they sigh. "Now is not the time for this conversation. There's still work to be done."
 
-"Right you are, son. With Caelum at our backs we will prevail." The pair quickly catch up to Terrence who is helping a group of villagers shovel sand onto a burning cart of straw. They seem to have the matter well in hand as the smoke blackens from lack of air. Up ahead, they see this district's church; the one Chaplain Stoutmann is in charge of. A third elven cleric and a group of villagers appear to have barred the doors to the church from the outside. They are pushing their backs hard against the doors as crashing echoes from inside. "Over there. Talia!"
+"Right you are, son. With Caelum at our backs we will prevail." The pair quickly catch up to Terrence who is helping a group of villagers shovel sand onto a burning cart of straw. They seem to have the matter well in hand as the smoke blackens from lack of air. Up ahead, they see this district's church; the one Chaplain Stoutmann is in charge of. A third elf cleric and a group of villagers appear to have barred the doors to the church from the outside. They are pushing their backs hard against the doors as crashing echoes from inside. "Over there. Talia!"
 
 "Chaplain!"
 
@@ -173,7 +173,7 @@ How was this possible? Firien looks up. A storm cloud looms overhead. It wasn't 
 
 "Firien! Are you alright? Let me heal your wounds... vis medicatrix." A quick healing word and an open palm from Stoutmann is enough to seal Firien's wounds. Thankfully, they were able to shrug off the quasit's poison. The pair hear a smash as the last remaining imp attempts to flee through a stained glass window. "Terrence! Get after it."
 
-"Yes chaplain!" The young lad gives chase to the wounded imp while his elven colleague approaches Firien.
+"Yes chaplain!" The young lad gives chase to the wounded imp while his elf colleague approaches Firien.
 
 "You're a tempest cleric?"
 
