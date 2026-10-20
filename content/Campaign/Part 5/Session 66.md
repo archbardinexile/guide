@@ -57,9 +57,9 @@ Rose seems excited by the prospect of setting up shop in Arx and offers her serv
 >
 > "Guy Brush, you're a credit to your profession!"
 >
-> *—Guy toasts Gomruss and the Six of Steel*
+> *—Guy toasts the Six of Steel, Gomruss cries*
 
-Stepping onto the gangplank, Guy turns to take one last look at his friends. He takes his place beside Elyse on the Airship and waves goodbye.
+Stepping onto the gangplank, Guy turns to take one last look at his friends. He takes his place beside his wife aboard the airship and waves goodbye. Elyse pecks his cheek and links their arms as together they rise into the sky.
 
 ---
 
