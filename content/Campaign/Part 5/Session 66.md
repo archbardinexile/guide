@@ -41,3 +41,28 @@ Arti's touch illuminates the first of the pillar's four faces. Firien invites El
 
 ### Skies South of Mallia
 
+Aboard the airship, Firien takes Elaina aside to clarify how exactly Tristis had charged the Feywild Ones. While the Grand Inquisitor was forthcoming with the oath takers, he had threatened to erase Buddleja, Tabitha and Cade's memories. Thankfully that wasn't necessary and they were allowed to go free with what little knowledge they had about the true nature of the Miasma. At that moment, Firien receives a congratulatory sending from Buddleja! The remaining Feywild Ones were still two days from Arx.
+
+Aequor offers to transport the party to Arx as thanks. Miyoko bids farewell to the Six of Steel and vows to continue searching for the pillars. She leaps onto Aequor's back and fog once again begins to envelop the airship. The party feel their stomachs sink as they are transported across the continent. As the fog disperses, so do Aequor and Miyoko. Gomruss utters a draconic farewell, which Aequor reciprocates. Below, the glimmering deserts of Calidus are revealed. The sandstone city stands where they meet the Altum sea.
+
+### Arx
+
+Mercifully, the airship's arrival is overshadowed by the excitement of the new eastern horizon. As such, the party are able to make their way through Arx unmolested. Traversing streets decorated with mosaics, tapestries and climbing flora, the party discover a quaint inn named The Ruby Oasis. Inside, the Six of Steel, Elyse, Rose and the Feywild Ones each claim a floor pillow and order a platter of food to share. Blythe is thankful to be close to the floor, away from the pipe smoke congealing on the ceiling.
+
+Guy reflects on the many adventures he shared with the Six of Steel. Meeting Aequor, Guardian of the Sea, whom until now he had considered a myth, was an epic conclusion. According to Guy, during the Antiquan invasion of Gwerdowra, shipwreck survivors would claim they were attacked by a gargantuan sea dragon under the thrall of the Antiquan queen, Kayoko. In truth, it seems the peaceful dragon simply admired the Antiquans' respect for nature. Firien's eyes widen. Could Miyoko be related to the queen?
+
+Rose seems excited by the prospect of setting up shop in Arx and offers her services should the Six of Steel need them. Finally, Guy announces his intent to stay with Elyse and join the crew of the Aubrey. Gomruss tears up, taken aback by the revelation. After sharing honeyed words of farewell, the party raise a glass to Guy Brush and the Six of Steel.
+
+> "Arti, it's been a privilege to watch you grow... literally. Firien, keep being the good shepherd that you are. Gomruss... keep being Gomruss."
+>
+> "Guy Brush, you're a credit to your profession!"
+>
+> *—Guy toasts Gomruss and the Six of Steel*
+
+Stepping onto the gangplank, Guy turns to take one last look at his friends. He takes his place beside Elyse on the Airship and waves goodbye.
+
+---
+
+Next: [[Session 67]]
+
+Previous: [[Session 65]]
