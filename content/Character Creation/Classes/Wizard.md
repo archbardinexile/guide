@@ -1,10 +1,10 @@
 [**Wizard Class Features**](https://2014.5e.tools/classes.html#wizard_phb)
 
-## Arcane Tradition
-
-### Lapidurgy
+## Arcane Tradition—Lapidurgy
 
 A lapidurge studies and shapes gemstones in great detail in order to achieve magical effects. The practice originated in Atada, where sparkling mineral deposits gave rise to the formidable [[Kingdom of Diamante|Diamond Guard]], who use gemstones to conjure radiant staves in defence of their queen.
+
+### 2nd Level
 
 #### Gem Magic
 
@@ -43,18 +43,24 @@ When you cast Gem Magic, you may be required to choose a damage type. The damage
 
 Starting at 2nd level, you learn the *dancing lights* cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can dismiss dancing lights as part of the same action you use to cast it. When you do, you gain 4 light points.
 
+### 6th Level
+
 #### Prismatic Armour
 
 Starting at 6th level, you can adorn your clothing with luminous armour plating. As an action, choose a damage type. For 8 hours, your base AC becomes 13 + your spellcasting modifier and you have resistance against the chosen damage type. The spell ends if you don armour or if you dismiss the spell as an action.
+
+### 10th Level
 
 #### Stonecutter
 
 Starting at 10th level, you learn how to transmute gemstones into their mineral counterparts, unlocking their damage types. You can transmute up to four gemstones when you finish a long rest, provided you have the material components.
 
+### 14th Level
+
 #### Gemstone Turret
 
-Starting at 14th level, you can create a levitating, magical turret at a point you choose within 5 feet. Your gemstones orbit the turret. For 1 hour, you can cast Gem Magic as though you were in the turret's space, but you must use your own senses. Also, you gain 1 light point at the start of each of your turns.
+Starting at 14th level, as an action, you can create a levitating, magical turret at a point you choose within 5 feet. Your gemstones orbit the turret. While you are concentrating on the turret, you can cast Gem Magic as though you were in the turret's space, but you must use your own senses. Also, you gain 4 light points at the start of each of your turns.
 
-Any spell targeting a creature or object within 10 feet of the turret must instead target the turret. If the spell has an area of effect, it is reduced to a 5-foot-diameter sphere surrounding the turret. If the turret takes damage as a result of the spell, reduce the damage by 1d12 × the number of light points you have remaining. If you reduce the damage to 0, choose a damage type. The creature that cast the spell becomes vulnerable to damage of the chosen type.
+Any spell targeting a creature or object within 10 feet of the turret must instead target the turret. If the spell has an area of effect, it is reduced to a 5-foot-diameter sphere surrounding the turret. If the turret takes damage as a result of the spell, reduce the damage by 4d12. If you reduce the damage to 0, choose a damage type. The creature that cast the spell becomes vulnerable to damage of the chosen type.
 
-The turret has an AC of 18 and a number of hit points equal to five × your wizard level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or if you dismiss it early as an action. At which point, your gemstones return to you.
+The turret has an AC of 18 and a number of hit points equal to 5× your wizard level. It is immune to poison and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. The turret disappears if it is reduced to 0 hit points or if you stop concentrating on it. At which point, your gemstones return to you.

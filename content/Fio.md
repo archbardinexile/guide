@@ -54,7 +54,7 @@ Since the arrival of the [[#Earthmotes|earthmote]] [[Nox (Earthmote)|Nox]] in 92
 
 ## The Miasma
 
-The Miasma is a magical purple fog that—with the exception of the Relief—envelops the entirety of Fio. It reaches almost six miles into the sky and has tides affected by Fio's moon, Auga. Malformed landscape plagued by sickened flora and fauna is revealed and concealed from west to east on a 23½-day cycle. Occasionally, migrating monsters and even rogue earthmotes emerge from the Miasma, proving that survival is possible beyond the border if the effects of [[Miasma psychosis]] can be avoided. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom, though the history of these pillars remains a mystery.
+The Miasma is a magical purple fog that—with the exception of the Relief—envelops the entirety of Fio. It reaches almost six miles into the sky and has tides affected by Fio's moon, Auga. Malformed landscape plagued by sickened flora and fauna is revealed and concealed from west to east on a 23½-day cycle. Occasionally, migrating monsters and even rogue earthmotes emerge from the Miasma, proving that survival is possible beyond the border if the [[Miasma psychosis|effects of the Miasma]] can be avoided. Adventurers that brave the Miasma occasionally return with tales of strange stone pillars that can be activated to disperse areas of the gloom, though the history of these pillars remains a mystery.
 
 ## Earthmotes
 

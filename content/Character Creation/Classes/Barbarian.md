@@ -1,9 +1,12 @@
+---
+draft: true
+---
 [Barbarian Class Features](https://2014.5e.tools/classes.html#barbarian_phb)
 
-## Optional Class Features
+## Primal Path—Path of the Pillar Saint
 
-You gain class features in the *Player's Handbook* when you reach certain levels in your class. This section offers additional features that you can gain as a barbarian. Unlike the features in the Player's Handbook, you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.
+### 6th Level
 
-### Primal Healing (Optional)
+#### Expelling Rage
 
-Starting at 7th level, you can end your rage with a healing impulse as a bonus action. Up to six creatures of your choice that can hear you within 60 feet each regain hit points equal to 1d8 × your remaining rages. End the following effects on each of the targets: blinded, deafened, paralysed, or poisoned and reduce their psychosis levels to 0.
+Starting at 6th level, when you choose to end your rage as a bonus action, you expel your strong emotions, calming those around you. Until the end of your turn, you have a pool of healing power which creatures of your choice may draw upon to restore a total number of hit points equal to 1d8 × the number of turns since you began raging. The creatures must be able to hear you to do so. The creatures are also cured of any effects listed in the short-term and long-term madness tables.

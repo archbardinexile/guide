@@ -1,10 +1,10 @@
 [**Bard Class Features**](https://2014.5e.tools/classes.html#bard_phb)
 
-## Bard College
-
-### College of Retainers
+## Bard College—College of Retainers
 
 An heir to a noble house requires a butler, a cook, a nurse, a personal tutor and most importantly a bodyguard. This prestigious college in the Kingdom of Diamante specialises in producing the most skilled retainers to fulfil each and every one of these roles.
+
+### 3rd Level
 
 #### Bonus Proficiencies
 
@@ -19,9 +19,13 @@ Starting at 3rd level, you can choose a willing creature to become your ***ward*
 - **Demonstration.** When your ward rolls its Bardic Inspiration die to add to an ability check, its proficiency bonus is doubled for that ability check provided you are also proficient in the required skill.
 - **Reinforcement.** When your ward rolls its Bardic Inspiration die to add to a saving throw, it has advantage on that saving throw.
 
+### 6th Level
+
 #### Master of Etiquette
 
-At 6th level, if you are surprised at the start of an encounter, your ward gains a Bardic Inspiration die (if it does not already have one) and it rolls it immediately. Add the number rolled to the initiative of any number of creatures within 60 feet of you who can hear you.
+At 6th level, if you are surprised at the start of an encounter, your ward rolls its Bardic Inspiration die (it gains a Bardic Inspiration die if it does not already have one). Add the number rolled to the initiative of all allied creatures who can hear your ward.
+
+### 14th Level
 
 #### Legal Guardian
 
