@@ -1,0 +1,14 @@
+---
+date: 2025-11-02
+---
+*The first half of a diary discovered in the Miasma by a doomed expedition from Tamlo in the year 972 PO.*
+
+Tenebrae began life as an aspiring artist. When harrowing visions  young earth genasi a swirling dark purple void that obscured the horizon in every direction. Having dwelt on the meaning of their ominous painting, Tenebrae was sought out by Chauntea, the deity of life and agriculture. She encouraged Tenebrae to travel the land and construct stone pillars that might retain the true history of events to come. These pillars would bear the blessings of Chauntea, Lathander and Bahamut so that together they might shield Profundus from the coming blight.
+
+Tenebrae travelled the region for six years, beseeching those in power to prepare for the coming blight. Very few heeded their word. In that time, they and their followers managed to construct 24 pillars. However, upon hearing that many of the pillars had been vandalised by terror-stricken cynics, Tenebrae began to doubt their ability to complete the task entrusted to them. Fleeing from Church of Lathander, Lao Tan, a dark-haired woman until recently an aid to Caelum Sol Orbis, sought out Tenebrae to expose the Grand Paladin's treachery.
+
+Lao Tan implored Tenebrae to focus their efforts not on preparing for the inevitable, but on discovering a way to prevent it. She spoke of a cabal of powerful fiends dwelling in the region of Discidium, who may be able to help. Having challenged and rediscovered their resolve, Tenebrae travelled to Discidium to seek out the League of Archfiends. Their number was said to include the powerful rakshasa sorcerer *Abhishek*, the alu-fiend seductress *Malaika*, the cambion warmonger *Arzhang*, and the durzagon artificer *Zdenek*. 
+
+The fiends did not believe Tenebrae's tale until the shape-shifting alu-fiend returned with proof of Caelum's treachery. With the Archfiends' influence, Tenebrae's allies soon multiplied and collection began of the graphite required to construct the enormous diamond that would become the heart of Mundi Eversor. The great colossus could match the powers of Caelum Sol Orbis, the aasimar who was to bring forth the Miasma in his bid for ascension.
+
+In a vast cavern deep beneath Discidium, The durzagon (Zdenek) was able to refine the graphite into a diamond almost half a mile in diameter. With Eversor's heart complete, the rakshasa began the ritual to graft half of Ten's soul onto the diamond, and Eversor's skeleton grew from the very earth surrounding them. It seems the evacuation of Discidium drew the gaze of Caelum Sol Orbis. In his hubris, the Grand Paladin called upon his Saints to prematurely begin the ritual to cleanse his mortal body of darkness so that he might ascend to divinity.

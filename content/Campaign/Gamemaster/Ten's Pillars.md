@@ -10,6 +10,6 @@ Whoever touches a pillar is granted a vision (1d10). Each pillar holds one of Te
 5. [ ] Malaika returns with proof of Caelum's treachery. Construction of Eversor begins.
 6. [ ] Ten watches the evacuation of Discidium. They beg the gods for forgiveness.
 7. [x] Ten grants half his soul to Eversor's diamond heart, activating the colossus.
-8. [ ] **Dawnroot Forest (Memory Stone)**—Lao Tan warns Caelum of Eversor's imminent arrival. They begin the ritual and are interrupted when Eversor erupts from beneath Discidium. Caelum departs mid-ritual, leaving no vessel for his darkness.
+8. [x] **Dawnroot Forest (Memory Stone)**—Lao Tan warns Caelum of Eversor's imminent arrival. They begin the ritual and are interrupted when Eversor erupts from beneath Discidium. Caelum departs mid-ritual, leaving no vessel for his darkness.
 9. [ ] Ten tries to absorb the darkness pouring from Caelum when he strikes the heart, releasing the Miasma.
 10. [ ] **Mundi Eversor (Diamond Heart)**—Caelum is captured by Talona, leaving Ten to activate the pillars and shield the Relief.

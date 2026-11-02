@@ -1,0 +1,12 @@
+---
+draft: true
+---
+*The second half of Tenebrae's diary.*
+
+Flying high above the Oratory, Caelum watched in horror as Mundi Eversor erupted from the ground beneath Discidium. Great chunks of earth crumbled away from Eversor's metallic form and rained down on what used to be Discidium. Leaving volcanic ash in its wake, Eversor began its approach to [[Caelum's Landing|Anfang]].
+
+As Eversor took enormous strides toward Anfang, Caelum sent his winged paladins to intercept the colossus. Arzhang took to the skies in defence of the colossus, cutting down many paladins with his flaming blade. Some paladins were able to climb Eversor and discover the diamond heart within, though their efforts to destroy it were in vain. Trapped above the Oratory by his own ritual, Caelum watched as Eversor began to stride across the [[Altum Sea]], its mechanical legs great enough in size to reach the ocean's depths. Below, the Saints continued to chant, hoping that Caelum might gain the power to strike down Eversor before it arrived.
+
+As Caelum summoned what power he had, a coruscation of light began to surround him. Seeing this, Tenebrae brought Eversor to a halt. Slowed by the ocean, there was no chance of reaching Anfang in time. Arzhang opened the chest of Eversor, revealing the diamond heart within. The heart began to hum and glow with radiant energy as Eversor charged its deadliest weapon. Sensing danger, Caelum tore himself from the ritual and darkness began to spill from his soul.
+
+Wounded, Caelum spread his wings and launched himself toward Eversor. He appeared to those below as a divine spear, sheathed in radiant light yet leaving behind a wake of darkness. The spear pierced Eversor's heart, shattering it. Caelum fled back to Anfang only to discover the resulting shock wave had caused fissures to open up around his home. Caelum returned to the ritual, now spoiled by the Miasma leaking from his broken soul. As Eversor's body fell, [[Fundus]] began to rise. Yet Caelum was more concerned with his ascension. His loyal Saints would continue sapping the Miasma from his soul until the world beyond the pillars was shrouded in darkness. Once the turmoil had subsided, Caelum was nowhere to be found. The world had changed forever.

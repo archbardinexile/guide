@@ -23,6 +23,6 @@ A list of people who have taken Firien's oath. The oath forbids sharing knowledg
 - [ ] Tabitha
 - [ ] Buddleja
 - [ ] Cade
-- [ ] Roshia
+- [x] Roshia
 - [ ] Vetra
 - [ ] Naal
