@@ -50,7 +50,7 @@ Ten appears beside Arti and whispers in their ear. Abishek was the rakshasa who 
 
 Darkhalijz explains that the vault in the largest chamber houses a gateway to the Plane of Mirrors. To open it, a payment of gold is required. Using graviturgy, Gomruss begins conveying Darkhalijz' treasure into the crucible, separating the gemstones and magical items. Bantonio plucks a sword of sharpness from the sorted pile, while Darkhaliijz laments over a portrait of himself in his ancient tiger-like form. With the crucible filled to the brim, Arti activates the locking mechanism.
 
-Magical fires heat the crucible, melting the gold inside. The crucible releases its contents, filling the mould in the floor. The golden key solidifies before two pairs of ceramic pincers descend from the ceiling and insert it into the lock. The stone circles begin to rotate. With an almighty clunk, the doors open to reveal a kaleidoscopic portal into the Plane of Mirrors. Shards of glass appear to constantly fold and reorient themselves to reflect thousands of locations, providing a convenient hub for travel across the multiverse.
+Magical fires heat the crucible, melting the gold inside. The crucible releases its contents, filling the mould in the floor. The golden key solidifies before two pairs of ceramic pincers descend from the ceiling and insert it into the lock. The stone circles begin to rotate. With an almighty clunk, the vault doors open to reveal a kaleidoscopic portal into the Plane of Mirrors. Inside, glass shards appear to reflect thousands of locations, providing a convenient hub for travel across the multiverse.
 
 ---
 
